@@ -187,6 +187,14 @@ User goes into the reminders screen and can choose from all the saved reminders.
 5. Playing Brain Game
 The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.
 
+6. Accesing Information Portal
+The user goes to the information portal icon where he or she can read about certain information related to the Alzheimer decease. In this section he/she will be able to find basic information regarding the nature of the decease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Aditionally to the side or botton of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.
+
+7. Accesing External sources of information from Information Portal
+User will access from the main window of the information portal will se a small tab that allows him/her to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
+
+
+
 ## Treatments
 There are drugs available that may help with some types of dementia and stop symptoms progressing for a while. This is one reason why it’s important to go to the GP as soon as you suspect there’s a problem.
 
