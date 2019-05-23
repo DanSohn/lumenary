@@ -41,8 +41,8 @@ We expect this app to be used by informal caregivers alongside patients daily an
 
 
 ### Competitive Product Survey
-**Timeless**
-https://www.indiegogo.com/projects/timeless-a-mobile-app-for-alzheimer-s-patients#/
+**<a href="https://www.indiegogo.com/projects/timeless-a-mobile-app-for-alzheimer-s-patients#/">Timeless</a>**
+
 Goal: Retain quality of life, stimulating memory and socializing can help slow down cognitive decline
 Common features we would like to have, including:
 Brain games
@@ -52,33 +52,28 @@ Includes management by caretaker and family members
 Phone numbers, photo gallery, identify (facial recognition) - key feature
 Future goals: gamification, music and multiple languages
 
-**Memory trainer**
-https://itunes.apple.com/ca/app/memory-trainer/id459700390?mt=8
+**<a href="https://itunes.apple.com/ca/app/memory-trainer/id459700390?mt=8">Memory Trainer</a>**
+
 Not specifically for Alzheimer’s patients, but perhaps something to keep in mind
 Game focused on developing memory (looks like finding pairs of images)
 
-**Products for Alzheimer’s patients**
-https://www.healthline.com/health/alzheimers-disease/best-products#1
-Clocks
-Big Calendars
-Mind games (match and word puzzles)
-Timed pillboxes
-Picture phones
-Locators
+**<a href="https://www.healthline.com/health/alzheimers-disease/best-products#1">Products for Alzheimer's patients</a>**
 
-## Secondary Research
-### Overview
-The secondary research conducted has been instrumental in forming a more educated perspective on the landscape of problems caregivers and patients afflicted with Alzheimer's disease face. The first listed source compares the benefits of various ICT interventions on informal caregivers of people living with dementia (of which Alzheimer's disease is the most common form). This study is directly relevant to our app, and also highlights a number of phone services currently available to people in these situations. The second source provided some statistics about the demographic of caregivers and people suffering from dementia. The third source gave some good information about assisted living settings. This is mainly pertaining to formal caregivers in these assisted living homes, but also brings to light some potential issues we could address with our app.
+- Clocks
+- Big Calendars
+- Mind games (match and word puzzles)
+- Timed pillboxes
+- Picture phones
+- Locators
 
+## Secondary research
 1. - Up to 75% of people living with dementia in the United States are cared for by family members in their homes
-   - Dementia caregivers have higher levels of depression, anxiety and other mood disorders compared with caregivers of older
-     adults without dementia
+   - Dementia caregivers have higher levels of depression, anxiety and other mood disorders compared with caregivers of older adults          without dementia
    - Research has shown that technology-based interventions can improve these outcomes on all sides of the equation
    - Study focused on the effects of ICT interventions on the health of informal dementia caregivers
    - **Interventions studied (in the home)**
       - Care consultant
-        - Helped to establish individualized plan of care which can include tasks such as utilizing Alzheimer’s Association
-          services
+      - Helped to establish individualized plan of care which can include tasks such as utilizing Alzheimer’s Association services
       - Automated voice response system
       - Phone services like support groups, strategies to reduce disruptive behavior, and a distraction call for the care recipient
       - Videotapes with strategies to improve recipient’s dressing and eating skills, or skill training for the caregiver (coaching)
@@ -100,7 +95,7 @@ The secondary research conducted has been instrumental in forming a more educate
      - Telephone can be used effectively stand-alone or in tandem with other ICTs
 2. - Majority of carers were sons or daughters or spouses (majority of which were women)
    - Caregivers expressed a high level of satisfaction with both primary care and neurology clinics
-3. - **Table 61.1. The Philosophy of Assisted Living**
+3. - Table 61.1. The Philosophy of Assisted Living
       1. Offer personalized, cost-effective, quality supportive services in a safe residential environment.
       2. Maximize the independence of each resident.
       3. Treat each resident with dignity and respect.
@@ -150,27 +145,25 @@ The secondary research conducted has been instrumental in forming a more educate
 
 ### Sources
 1. Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,
-The effects of information and communication technologies on informal caregivers of persons living with dementia: A systematic review,
+<a href="http://www.sciencedirect.com/science/article/pii/S2352873718300787">The effects of information and communication technologies on informal caregivers of persons living with dementia: A systematic review</a>,
 Alzheimer's & Dementia: Translational Research & Clinical Interventions,
 Volume 5,
 2019,
 Pages 1-12,
 ISSN 2352-8737,
 https://doi.org/10.1016/j.trci.2018.11.003.
-(http://www.sciencedirect.com/science/article/pii/S2352873718300787)
+
 
 2. J. Olazarán Rodríguez, M. Sastre Paz, S. Martín Sánchez,
-Health care in dementia: Satisfaction and needs of the caregiver,
+<a href="http://www.sciencedirect.com/science/article/pii/S2173580812000624">Health care in dementia: Satisfaction and needs of the caregiver</a>,
 Neurología (English Edition),
 Volume 27, Issue 4,
 2012,
 Pages 189-196,
 ISSN 2173-5808,
 https://doi.org/10.1016/j.nrleng.2011.07.001.
-(http://www.sciencedirect.com/science/article/pii/S2173580812000624)
 
-3. Zimmerman, Sheryl C., Jean Correll L. Munn, and Terry L. Koenig. "Assisted Living Settings." Handbook of Social Work in Health and Aging. Oxford UP, 2010. Handbook of Social Work in Health and Aging. Web.
-https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s2.0-84920176424
+3. Zimmerman, Sheryl C., Jean Correll L. Munn, and Terry L. Koenig. <a href="https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s2.0-84920176424">"Assisted Living Settings." Handbook of Social Work in Health and Aging</a>. Oxford UP, 2010. Handbook of Social Work in Health and Aging. Web.
 
 ## Task Descriptions
 1. Setting up a Reminder
@@ -197,7 +190,6 @@ Other things that can help with symptoms of dementia include:
 - life story work, sharing memories and experiences with a carer or nurse to create a ‘life storybook’
 - keeping as active as possible – physically, mentally and socially – which can boost memory and self-esteem, and help avoid depression
 
-https://www.alzheimers.org.uk/about-dementia/five-things-you-should-know-about-dementia
+<a href="https://www.alzheimers.org.uk/about-dementia/five-things-you-should-know-about-dementia">Five Things you should know about dementia</a>
 
-**_Contact for people that want information about Alzheimer who may be affected by dementia or want to provide information_**
-https://alzheimer.ca/en/Home/ContactUs
+**_<a href="https://alzheimer.ca/en/Home/ContactUs">Contact</a> for people that want information about Alzheimer's disease who may be affected by dementia or want to provide information_**
