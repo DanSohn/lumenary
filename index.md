@@ -179,4 +179,4 @@ Other things that can help with symptoms of dementia include:
 https://www.alzheimers.org.uk/about-dementia/five-things-you-should-know-about-dementia
 
 **_Contact for people that want information about Alzheimer who may be affected by dementia or want to provide information_**
-https://alzheimer.ca/en/Home/ContactUs
+<href=https://alzheimer.ca/en/Home/ContactUs/>
