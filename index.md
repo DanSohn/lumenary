@@ -1,4 +1,4 @@
-# lumenary.
+# Team 10 CPSC 481 Spring 2019
 
 ## Identify your project idea. Succinctly describe the nature of the project, how you expect your system to be used, by whom, and the context under which you expect it to be used.
 
@@ -9,12 +9,12 @@ Assistive technology
 Our project idea is to create a mobile application for patients with Alzheimer’s disease and also their family members (informal caregivers). Maintaining their standard of living prior to contracting the disease is the core of what we want to accomplish. The app will be mainly focusing on mild Alzheimer's; patients who still suffer from memory loss, but are not completely dependent on caregivers. Alzheimer’s disease is the most common type of dementia. In the early stage, noticeable symptoms may be minimal but the more it progresses the more damage the disease causes to the brain. While there are currently no treatments to stop Alzheimer's diseases’ progression, there have been different medications and treatments used to diminish its symptoms.
 
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
-  - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present. 
+  - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.
   - **Reminders:** Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.
   - **Specialized Checklist:** A to-do list where certain items can be checked off by people with permissions (a caretaker can be the only       one to check off if the patient has taken all the pills for the day).
   - **GPS Tracking:** Peace of Mind. The app provides real-time tracking for the safety of the patient, shared with all the linked devices       of family members/caretakers.
   - **Memory Prompting:** As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the
-    patient to remember certain words. We expect functionality to be implemented based on this idea. 
+    patient to remember certain words. We expect functionality to be implemented based on this idea.
   - **Brain Game:** Based on saved memories, it would prompt the patient to describe certain details about a memory.
   - **Permission-Based Viewing:** Not all family members need all the information. Check out the options for the devices that need certain
     info, or that don’t need all in the information.
@@ -24,7 +24,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
   - Developers/Designers
       - the developers and designers will need lots of training to be able to implement this app to the best of their abilities, using
       research and IDEO methods. Their background knowledge may consist of personal background, but also secondary research from
-      creating the best product possible. 
+      creating the best product possible.
   - Sponsors of project
   - Healthcare (Doctors/Nurses)
   - Patient
@@ -32,11 +32,11 @@ We expect this app to be used by informal caregivers alongside patients daily an
   - Informal
       - Focus here
       - So family members and the patient themselves
-  - Formal 
-  - Social workers 
-  - Day worker(therapistsomthing)
-  - Professional 
-  - Doctors 
+  - Formal
+  - Social workers
+  - Occupational Therapist
+  - Professional
+  - Doctors
   - Nurses
 
 
@@ -54,7 +54,7 @@ Future goals: gamification, music and multiple languages
 
 **Memory trainer**
 https://itunes.apple.com/ca/app/memory-trainer/id459700390?mt=8
-Not specifically for alzheimer’s patients, but perhaps something to keep in mind
+Not specifically for Alzheimer’s patients, but perhaps something to keep in mind
 Game focused on developing memory (looks like finding pairs of images)
 
 **Products for Alzheimer’s patients**
@@ -102,7 +102,7 @@ Locators
       4. Promote the individuality of each resident.
       5. Protect each resident's right to privacy.
       6. Provide each resident the choice of services and lifestyles and the right to negotiate risk associated with that choice.
-      7. Involve residents and include family and friends in service planning and implementation when requested by a competent resident 
+      7. Involve residents and include family and friends in service planning and implementation when requested by a competent resident
       or when appropriate for incompetent residents.
       8. Provide opportunity for residents to develop and maintain relationships in the broader community.
       9. Minimize the need to move.
@@ -169,13 +169,13 @@ https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s
 
 ## Task Descriptions
 1. Setting up a Reminder
-The primary caretaker can go into the application tap on set reminder. The app will ask her for the title of the reminder, a description, a picture if applicable, the time the reminder should go off, , the days of the week it will go off on, if the reminder is recurring or one time only and if its recurring how often should the reminder go off (weekly, montlhy, yearly). Once all information has been filled in then the caretaker will can press save to go through with the set up or cancel if they decide it is not needed.
+The primary caretaker can go into the application tap on set reminder. The app will ask her for the title of the reminder, a description, a picture if applicable, the time the reminder should go off, , the days of the week it will go off on, if the reminder is recurring or one time only and if its recurring how often should the reminder go off (weekly, monthly, yearly). Once all information has been filled in then the caretaker will can press save to go through with the set up or cancel if they decide it is not needed.
 
 2. Adding a Journal entry
-The user opens the journal page and a calendar opens up with the current date highlighted. The user cant then press on the day they want to add an entry to and it will take them to another screen with all the entries associtated to that day. the user then presses on the add entry button and is taken to another screen where they enter a title, picture and/or files (if needed), location (not needed), time of day(not needed), date(if wants to change the day they clicked on),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the save button where the entry will show up on the day they saved the entry on.
+The user opens the journal page and a calendar opens up with the current date highlighted. The user cant then press on the day they want to add an entry to and it will take them to another screen with all the entries associated to that day. the user then presses on the add entry button and is taken to another screen where they enter a title, picture and/or files (if needed), location (not needed), time of day(not needed), date(if wants to change the day they clicked on),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the save button where the entry will show up on the day they saved the entry on.
 
 3. Editing Journal Entry
-The user presses the day and entry they want to edit, they press the edit icon where it takes them to a page similar to journal entry page with all of the fields filled out. User can then choose whatever they want to add, subtract or change. After user has finsihed with the changes they submit save, a prompt comes up making sure they want to confirm the changes if the user agress the entry will now show the correct information.
+The user presses the day and entry they want to edit, they press the edit icon where it takes them to a page similar to journal entry page with all of the fields filled out. User can then choose whatever they want to add, subtract or change. After user has finished with the changes they submit save, a prompt comes up making sure they want to confirm the changes if the user agrees the entry will now show the correct information.
 
 4. Editing Reminder
 User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder details of it show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.
