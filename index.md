@@ -67,6 +67,11 @@ Game focused on developing memory (looks like finding pairs of images)
 - Locators
 
 ## Secondary research
+### Overview
+The secondary research conducted has been instrumental in forming a more educated perspective on the landscape of problems caregivers and patients afflicted with Alzheimer's disease face. The first listed source compares the benefits of various ICT interventions on informal caregivers of people living with dementia (of which Alzheimer's disease is the most common form). This study is directly relevant to our app, and also highlights a number of phone services currently available to people in these situations. The second source provided some statistics about the demographic of caregivers and people suffering from dementia. The third source gave some good information about assisted living settings. This is mainly pertaining to formal caregivers in these assisted living homes, but also brings to light some potential issues we could address with our app.
+
+Overall, the secondary research method has been effective in providing general information about the people our app could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely continue to use sources like these when evaluating more specific functions later on.
+
 1. - Up to 75% of people living with dementia in the United States are cared for by family members in their homes
    - Dementia caregivers have higher levels of depression, anxiety and other mood disorders compared with caregivers of older adults          without dementia
    - Research has shown that technology-based interventions can improve these outcomes on all sides of the equation
