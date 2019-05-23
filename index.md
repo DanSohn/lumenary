@@ -2,22 +2,29 @@
 
 ## Identify your project idea. Succinctly describe the nature of the project, how you expect your system to be used, by whom, and the context under which you expect it to be used.
 
-Assisted living 
+Assisted living
+
 Assistive technology
 
-Our project idea is to create an App for the family of patients with Alzheimer's. This app will provide the functionality to both the families and the patients themselves, in order to protect the patient and increase the standard of living for the patient. Our app is focusing on mild to moderate* Alzheimer's, who still suffers from memory loss, but is not completely dependent on others for their care. We expect this app to be used in the daily lives of the family to provide these functions for the patient
-  - Journal: Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present. 
-  - Reminders: Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.
-  - Specialized Checklist: A to-do list where certain items can be checked off by people with permissions (a caretaker can be the only       one to check off if the patient has taken all the pills for the day).
-  - GPS Tracking: Peace of Mind. The app provides real-time tracking for the safety of the patient, shared with all the linked devices       of family members/caretakers.
-  - Memory Prompting: As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the         patient to remember certain words and 
-        -From what they say and create the persona from that 
-  - Brain Game: Based on saved memories, it would prompt the patient to describe certain details about a memory.
-  - Security: Not all family members need all the information. Check out the options for the devices that need certain info, or that         don’t need all in the information. 
+Our project idea is to create a mobile application for patients with Alzheimer’s disease and also their family members (informal caregivers). Maintaining their standard of living prior to contracting the disease is the core of what we want to accomplish. The app will be mainly focusing on mild Alzheimer's; patients who still suffer from memory loss, but are not completely dependent on caregivers. Alzheimer’s disease is the most common type of dementia. In the early stage, noticeable symptoms may be minimal but the more it progresses the more damage the disease causes to the brain. While there are currently no treatments to stop Alzheimer's diseases’ progression, there have been different medications and treatments used to diminish its symptoms.
+
+We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
+  - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present. 
+  - **Reminders:** Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.
+  - **Specialized Checklist:** A to-do list where certain items can be checked off by people with permissions (a caretaker can be the only       one to check off if the patient has taken all the pills for the day).
+  - **GPS Tracking:** Peace of Mind. The app provides real-time tracking for the safety of the patient, shared with all the linked devices       of family members/caretakers.
+  - **Memory Prompting:** As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the
+    patient to remember certain words. We expect functionality to be implemented based on this idea. 
+  - **Brain Game:** Based on saved memories, it would prompt the patient to describe certain details about a memory.
+  - **Permission-Based Viewing:** Not all family members need all the information. Check out the options for the devices that need certain
+    info, or that don’t need all in the information.
+      - **Revoking and granting access:** A primary admin will be able to assign/reassign appropriate rolls according to their liking.
 
 ## Identify stakeholders and users. Figure out who is impacted (in one way or another) by this system -- these are stakeholders. Note that stakeholders and users overlap, but are not always the same. For example, the primary users of self-checkout at a grocery store are customers, but cashiers still make use of the system, and the owner of a grocery store (who is likely paying for its installation) is someone who cares about the system, too. Create a list of these stakeholders, and describe them (particularly the users) in terms of: how much training/experience they might have, their background knowledge, etc.
   - Developers/Designers
-      - the developers and designers will need lots of training to be able to implement this app to the best of their abilities, using           research and IDEO methods. Their background knowledge may consist of personal background, but also secondary research from               creating the best product possible. 
+      - the developers and designers will need lots of training to be able to implement this app to the best of their abilities, using
+      research and IDEO methods. Their background knowledge may consist of personal background, but also secondary research from
+      creating the best product possible. 
   - Sponsors of project
   - Healthcare (Doctors/Nurses)
   - Patient
