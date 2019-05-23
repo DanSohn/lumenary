@@ -151,7 +151,7 @@ Volume 5,
 2019,
 Pages 1-12,
 ISSN 2352-8737,
-<a href="https://doi.org/10.1016/j.trci.2018.11.003">External link</a>
+<a href="https://doi.org/10.1016/j.trci.2018.11.003">External link.</a>
 
 
 2. J. Olazarán Rodríguez, M. Sastre Paz, S. Martín Sánchez,
@@ -161,7 +161,8 @@ Volume 27, Issue 4,
 2012,
 Pages 189-196,
 ISSN 2173-5808,
-https://doi.org/10.1016/j.nrleng.2011.07.001.
+<a href="https://doi.org/10.1016/j.nrleng.2011.07.001">External link.</a>
+
 
 3. Zimmerman, Sheryl C., Jean Correll L. Munn, and Terry L. Koenig. <a href="https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s2.0-84920176424">"Assisted Living Settings." Handbook of Social Work in Health and Aging</a>. Oxford UP, 2010. Handbook of Social Work in Health and Aging. Web.
 
