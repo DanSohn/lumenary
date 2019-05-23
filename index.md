@@ -167,6 +167,22 @@ https://doi.org/10.1016/j.nrleng.2011.07.001.
 3. Zimmerman, Sheryl C., Jean Correll L. Munn, and Terry L. Koenig. "Assisted Living Settings." Handbook of Social Work in Health and Aging. Oxford UP, 2010. Handbook of Social Work in Health and Aging. Web.
 https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s2.0-84920176424
 
+## Task Descriptions
+1. Setting up a Reminder
+The primary caretaker can go into the application tap on set reminder. The app will ask her for the title of the reminder, a description, a picture if applicable, the time the reminder should go off, , the days of the week it will go off on, if the reminder is recurring or one time only and if its recurring how often should the reminder go off (weekly, montlhy, yearly). Once all information has been filled in then the caretaker will can press save to go through with the set up or cancel if they decide it is not needed.
+
+2. Adding a Journal entry
+The user opens the journal page and a calendar opens up with the current date highlighted. The user cant then press on the day they want to add an entry to and it will take them to another screen with all the entries associtated to that day. the user then presses on the add entry button and is taken to another screen where they enter a title, picture and/or files (if needed), location (not needed), time of day(not needed), date(if wants to change the day they clicked on),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the save button where the entry will show up on the day they saved the entry on.
+
+3. Editing Journal Entry
+The user presses the day and entry they want to edit, they press the edit icon where it takes them to a page similar to journal entry page with all of the fields filled out. User can then choose whatever they want to add, subtract or change. After user has finsihed with the changes they submit save, a prompt comes up making sure they want to confirm the changes if the user agress the entry will now show the correct information.
+
+4. Editing Reminder
+User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder details of it show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.
+
+5. Playing Brain Game
+The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.
+
 ## Treatments
 There are drugs available that may help with some types of dementia and stop symptoms progressing for a while. This is one reason why it’s important to go to the GP as soon as you suspect there’s a problem.
 
