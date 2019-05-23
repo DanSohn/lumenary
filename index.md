@@ -151,7 +151,7 @@ Volume 5,
 2019,
 Pages 1-12,
 ISSN 2352-8737,
-https://doi.org/10.1016/j.trci.2018.11.003.
+<a href="https://doi.org/10.1016/j.trci.2018.11.003">External link</a>
 
 
 2. J. Olazarán Rodríguez, M. Sastre Paz, S. Martín Sánchez,
