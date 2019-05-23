@@ -1,5 +1,10 @@
 # Team 10 CPSC 481 Spring 2019
-
+<html>
+  <head>
+    <title="lumenary.|Assisted living, Assitive technology"</title>
+  </head>
+</html>
+  
 ## Identify your project idea. Succinctly describe the nature of the project, how you expect your system to be used, by whom, and the context under which you expect it to be used.
 
 **_Assisted living_**
