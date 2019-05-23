@@ -66,14 +66,19 @@ Timed pillboxes
 Picture phones
 Locators
 
-## Secondary research
+## Secondary Research
+### Overview
+The secondary research conducted has been instrumental in forming a more educated perspective on the landscape of problems caregivers and patients afflicted with Alzheimer's disease face. The first listed source compares the benefits of various ICT interventions on informal caregivers of people living with dementia (of which Alzheimer's disease is the most common form). This study is directly relevant to our app, and also highlights a number of phone services currently available to people in these situations. The second source provided some statistics about the demographic of caregivers and people suffering from dementia. The third source gave some good information about assisted living settings. This is mainly pertaining to formal caregivers in these assisted living homes, but also brings to light some potential issues we could address with our app.
+
 1. - Up to 75% of people living with dementia in the United States are cared for by family members in their homes
-   - Dementia caregivers have higher levels of depression, anxiety and other mood disorders compared with caregivers of older adults          without dementia
+   - Dementia caregivers have higher levels of depression, anxiety and other mood disorders compared with caregivers of older
+     adults without dementia
    - Research has shown that technology-based interventions can improve these outcomes on all sides of the equation
    - Study focused on the effects of ICT interventions on the health of informal dementia caregivers
    - **Interventions studied (in the home)**
       - Care consultant
-      - Helped to establish individualized plan of care which can include tasks such as utilizing Alzheimer’s Association services
+        - Helped to establish individualized plan of care which can include tasks such as utilizing Alzheimer’s Association
+          services
       - Automated voice response system
       - Phone services like support groups, strategies to reduce disruptive behavior, and a distraction call for the care recipient
       - Videotapes with strategies to improve recipient’s dressing and eating skills, or skill training for the caregiver (coaching)
@@ -95,7 +100,7 @@ Locators
      - Telephone can be used effectively stand-alone or in tandem with other ICTs
 2. - Majority of carers were sons or daughters or spouses (majority of which were women)
    - Caregivers expressed a high level of satisfaction with both primary care and neurology clinics
-3. - Table 61.1. The Philosophy of Assisted Living
+3. - **Table 61.1. The Philosophy of Assisted Living**
       1. Offer personalized, cost-effective, quality supportive services in a safe residential environment.
       2. Maximize the independence of each resident.
       3. Treat each resident with dignity and respect.
