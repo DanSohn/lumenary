@@ -1,5 +1,5 @@
 # Team 10 CPSC 481 Spring 2019
-  
+
 ## Project Idea<br/>
 **_Assisted living,_**<br/>
 **_Assistive technology_**<br/>
@@ -19,7 +19,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
   - Developers/Designers
       - the developers and designers will need lots of training to be able to implement this app to the best
         of their abilities, using research and IDEO methods. Their background knowledge may consist of personal background,
-        but also secondary research from creating the best product possible. They will be the main people involved in the 
+        but also secondary research from creating the best product possible. They will be the main people involved in the
         User-Centered Design, other than the users themselves.
   - Sponsors of project
       - Sponsors will have no training, and very little background knowledge. They will not be part of the design process.
@@ -29,7 +29,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
       - The patient will have little to moderate background knowledge on Alzheimer’s Disease, as the condition becomes a big part of their life. They will have extensive training/experience with the application, as we hope the platform will provide daily support in their lives. The patient relates to the design of the system as the main character of the User-Centered Design, being the problem in the investigation phase, and being centered for solutions in the ideate phase.
   - Family/Caretakers
       - Informal
-          - Informal Caregivers, consisting of family members, will range from having little to extensive knowledge on Alzheimer’s Disease, as they help support the patient. They will receive extensive training/experience with the application, as they are the main targeted users. Other than the patients themselves, the design of the application will be targeted towards the informal caregivers such that it provides maximum usability. As such, for all phases of the User-Centered Design, they will be considered. 
+          - Informal Caregivers, consisting of family members, will range from having little to extensive knowledge on Alzheimer’s Disease, as they help support the patient. They will receive extensive training/experience with the application, as they are the main targeted users. Other than the patients themselves, the design of the application will be targeted towards the informal caregivers such that it provides maximum usability. As such, for all phases of the User-Centered Design, they will be considered.
       - Formal
           - Formal Caregivers, consisting of social workers and occupational therapists, will have extensive knowledge on dealing with patients suffering from Alzheimer’s Disease, but they will not receive much training for the application, as they are not a targeted group of users. As such, they will not really be considered for the design process.
       - Professional (Doctor/Nurses)
@@ -37,21 +37,21 @@ We expect this app to be used by informal caregivers alongside patients daily an
 
 
 ## User Research Methods <br/>
-The two main research methods we used were Interviews and Secondary Research. 
-We allotted a small amount of time to research Competitive Product Survey in order to find current 
+The two main research methods we used were Interviews and Secondary Research.
+We allotted a small amount of time to research Competitive Product Survey in order to find current
 markets for products, goals that these applications try to solve, and what functionalities they provide.<br/>
 ### Interviews <br/>
-Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and 
-also to view perceptions of users on the patients and the burden placed on them. We were able to interview four 
-individuals composing of formal and informal caregivers. Using the Zarit Burden Interview, we were able to place the 
+Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and
+also to view perceptions of users on the patients and the burden placed on them. We were able to interview four
+individuals composing of formal and informal caregivers. Using the Zarit Burden Interview, we were able to place the
 burden of taking care of a patient with Alzheimer’s Disease upon the caretakers in the moderate range. The main problem
 we are trying to face now would be: **How to lower user’s burden through our functionalities?**
-<br/>Using these four interviewees, we were able to paint a picture on which functionalities were useful, which seemed 
-useless, and provide understanding through the user’s view on how the application may increase or decrease the amount 
-of burden placed on the user. Another point that we asked our interviewees was, due to the nature of the condition, 
-whether or not the patient themselves should have the functionalities. Most of the functionalities should also be 
+<br/>Using these four interviewees, we were able to paint a picture on which functionalities were useful, which seemed
+useless, and provide understanding through the user’s view on how the application may increase or decrease the amount
+of burden placed on the user. Another point that we asked our interviewees was, due to the nature of the condition,
+whether or not the patient themselves should have the functionalities. Most of the functionalities should also be
 possessed by the patient.
-<br/>Discussing burden, the majority of the functionalities would lower the burden. However the 
+<br/>Discussing burden, the majority of the functionalities would lower the burden. However the
 following two functionalities would increase burden placed.
 - Patient Paging Ability
     - The caretakers believed that this ability would increase the burden. They believed that this ability would be misused constantly. Therefore, the users suggested the ability to turn on/off the feature.
@@ -60,49 +60,49 @@ following two functionalities would increase burden placed.
 
 ### Use of Interview Method
 
-The interview method went very smoothly, and we were able to gather a lot of data through using both structured 
-and opened questions. The only difficulty with the interview method was when we used open structure of asking questions 
-about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting 
-from the functionality - if not, they gave vague answers that did not provide much useful information. Hence, next 
+The interview method went very smoothly, and we were able to gather a lot of data through using both structured
+and opened questions. The only difficulty with the interview method was when we used open structure of asking questions
+about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting
+from the functionality - if not, they gave vague answers that did not provide much useful information. Hence, next
 time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
 
 ### Secondary Research
-
-Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease, 
-and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on 
-the subject and design issues. The secondary research conducted has been instrumental in forming a more educated 
-perspective on the landscape of problems caregivers and patients afflicted with Alzheimer's disease face. 
-    The first listed source compares the benefits of various ICT interventions on informal caregivers of people living 
-with dementia (of which Alzheimer's disease is the most common form). This study is directly relevant to our application, 
-and also highlights a number of phone services currently available to people in these situations. 
-    The second source provided some statistics about the demographic of caregivers and people suffering from dementia. 
-    The third source gave good information about assisted living settings. This is mainly pertaining to formal caregivers 
+<a href="/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download research document</a>
+Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease,
+and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on
+the subject and design issues. The secondary research conducted has been instrumental in forming a more educated
+perspective on the landscape of problems caregivers and patients afflicted with Alzheimer's disease face.
+    The first listed source compares the benefits of various ICT interventions on informal caregivers of people living
+with dementia (of which Alzheimer's disease is the most common form). This study is directly relevant to our application,
+and also highlights a number of phone services currently available to people in these situations.
+    The second source provided some statistics about the demographic of caregivers and people suffering from dementia.
+    The third source gave good information about assisted living settings. This is mainly pertaining to formal caregivers
 in these assisted living homes, but also brings to light some potential issues we could address with our application.
 
 ### Use of Secondary Research<br/>
-Overall, the secondary research method has been effective in providing general information about the people our app 
-could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary 
-research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely 
+Overall, the secondary research method has been effective in providing general information about the people our app
+could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary
+research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely
 continue to use sources like these when evaluating more specific functions later on.
 
 ### Competitive Product Survey<br/>
-Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s 
-competitions. We used the information gathered to establish certain functionalities and how they compare to our 
-own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain 
+Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s
+competitions. We used the information gathered to establish certain functionalities and how they compare to our
+own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain
 problem that patients face such as:
 - Big fonts and calendars to deal with the inability to read small fonts.
 - Location services to deal with wandering.
 - Timed Pillboxes to ensure medicine is taken at a timely manner.<br/>
-We have taken this information and the goals of the applications in order to ensure that our application 
-will have all the necessary functionalities to maintain the patients standard of living. While the information 
-provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
+We have taken this information and the goals of the applications in order to ensure that our application
+will have all the necessary functionalities to maintain the patients standard of living. While the information
+provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our
 application will be strongly focused towards the informal caregivers.
 
 
 ### Use of Competitive Product Survey<br/>
-Due to the nature of our product, since we have a differing main audience, the information gathered 
-using this method was not very helpful. As this was a by-product of secondary research however, not 
-much time was allotted to this method, hence if we did the project again, it would be acceptable to contain 
+Due to the nature of our product, since we have a differing main audience, the information gathered
+using this method was not very helpful. As this was a by-product of secondary research however, not
+much time was allotted to this method, hence if we did the project again, it would be acceptable to contain
 this method as long as it was not the primary or secondary research method.
 
 ## Task Descriptions
