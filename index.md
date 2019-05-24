@@ -53,11 +53,10 @@ whether or not the patient themselves should have the functionalities. Most of t
 possessed by the patient.
 <br/>Discussing burden, the majority of the functionalities would lower the burden. However the 
 following two functionalities would increase burden placed.
-    - Patient Paging Ability
-        - The caretakers believed that this ability would increase the burden. They believed that this 
-          ability would be misused constantly. Therefore, the users suggested the ability to turn on/off the feature.
-    - Panic Button
-        - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
+- Patient Paging Ability
+    - The caretakers believed that this ability would increase the burden. They believed that this ability would be misused constantly. Therefore, the users suggested the ability to turn on/off the feature.
+- Panic Button
+    - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
 
 ### Use of Interview Method
 
