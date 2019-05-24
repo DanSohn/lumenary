@@ -67,7 +67,7 @@ from the functionality - if not, they gave vague answers that did not provide mu
 time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
 
 ### Secondary Research
-<a href="../Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download research document</a><br/>
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/>
 Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease,
 and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on
 the subject and design issues. The secondary research conducted has been instrumental in forming a more educated
