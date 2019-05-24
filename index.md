@@ -1,7 +1,6 @@
 # Team 10 CPSC 481 Spring 2019
   
 ## Project Idea
-​
 
 **_Assisted living,_**
 
@@ -104,9 +103,9 @@ Competitive Product Survey was used in order to collect, compare and conduct eva
 competitions. We used the information gathered to establish certain functionalities and how they compare to our 
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain 
 problem that patients face such as:
-    - Big fonts and calendars to deal with the inability to read small fonts
-    - Location services to deal with wandering
-    - Timed Pillboxes to ensure medicine is taken at a timely manner
+- Big fonts and calendars to deal with the inability to read small fonts
+- Location services to deal with wandering
+- Timed Pillboxes to ensure medicine is taken at a timely manner
 We have taken this information and the goals of the applications in order to ensure that our application 
 will have all the necessary functionalities to maintain the patients standard of living. While the information 
 provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
