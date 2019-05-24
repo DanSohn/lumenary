@@ -14,7 +14,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
       - **Revoking and granting access:** A primary admin will be able to assign/reassign appropriate rolls according to their liking.
   - **Information Portal:** The application provides critical information to the patient and the family.
     Including details such as the closest hospitals, information on dealing with Alzheimer’s Disease, and how to ensure mental health and stability as caregivers, the portal will provide links for any questions any stakeholders may have.
-​
+
 ## Stakeholders and Users
   - Developers/Designers
       - the developers and designers will need lots of training to be able to implement this app to the best
@@ -34,7 +34,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
           - Formal Caregivers, consisting of social workers and occupational therapists, will have extensive knowledge on dealing with patients suffering from Alzheimer’s Disease, but they will not receive much training for the application, as they are not a targeted group of users. As such, they will not really be considered for the design process.
       - Professional (Doctor/Nurses)
           - See above at Healthcare.
-<br/><br/>
+          <br/><br/>
 ## User Research Methods <br/>
 The two main research methods we used were Interviews and Secondary Research. 
 We allotted a small amount of time to research Competitive Product Survey in order to find current 
