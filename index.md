@@ -126,14 +126,16 @@ The Primary Caretaker logs into application, goes into Reminders, and sets remin
 
 2. Adding a Journal entry
 
-User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.   
+User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.
+
 3. Editing Journal Entry 
 
 The user presses the day and entry they want to edit, they press the edit icon where it takes them to a page similar to journal entry page with all of the fields filled out. User can then choose whatever they want to add, subtract or change. After user has finished with the changes they submit save, a prompt comes up making sure they want to confirm the changes if the user agrees the entry will now show the correct information.
 
 4. Editing Reminder 
 
-User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder, Reminder details show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.   
+User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder, Reminder details show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.
+
 5. Playing Brain Game 
 
 The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.
