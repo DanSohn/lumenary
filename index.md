@@ -92,7 +92,7 @@ research. Thus, we also did interviews with informal caregivers to get direct fe
 continue to use sources like these when evaluating more specific functions later on.
 
 ### Competitive Product Survey<br/>
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Informal Caregiver-1 Interview</a><br/>
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/>
 Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s
 competitions. We used the information gathered to establish certain functionalities and how they compare to our
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain
