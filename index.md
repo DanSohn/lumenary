@@ -4,6 +4,7 @@
 ​
 
 **_Assisted living,_**
+
 **_Assistive technology_**
 ​
 
