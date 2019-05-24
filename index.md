@@ -2,8 +2,8 @@
   
 ## Project Idea
 ​
-​
-**_Assisted living,_** 
+
+**_Assisted living,_**
 
 **_Assistive technology_**
 ​
