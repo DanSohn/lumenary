@@ -43,7 +43,7 @@ markets for products, goals that these applications try to solve, and what funct
 ### Interviews <br/>
 Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and 
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four 
-individuals composing of formal and informal caregivers Using the Zarit Burden Interview, we were able to place the 
+individuals composing of formal and informal caregivers. Using the Zarit Burden Interview, we were able to place the 
 burden of taking care of a patient with Alzheimer’s Disease upon the caretakers in the moderate range. The main problem
 we are trying to face now would be: **How to lower user’s burden through our functionalities?**
 <br/>Using these four interviewees, we were able to paint a picture on which functionalities were useful, which seemed 
