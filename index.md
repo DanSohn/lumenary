@@ -46,12 +46,12 @@ also to view perceptions of users on the patients and the burden placed on them.
 individuals composing of formal and informal caregivers Using the Zarit Burden Interview, we were able to place the 
 burden of taking care of a patient with Alzheimer’s Disease upon the caretakers in the moderate range. The main problem
 we are trying to face now would be: **How to lower user’s burden through our functionalities?**
-	Using these four interviewees, we were able to paint a picture on which functionalities were useful, which seemed 
+<br/>Using these four interviewees, we were able to paint a picture on which functionalities were useful, which seemed 
 useless, and provide understanding through the user’s view on how the application may increase or decrease the amount 
 of burden placed on the user. Another point that we asked our interviewees was, due to the nature of the condition, 
 whether or not the patient themselves should have the functionalities. Most of the functionalities should also be 
 possessed by the patient.
-    Discussing burden, the majority of the functionalities would lower the burden. However the 
+<br/>Discussing burden, the majority of the functionalities would lower the burden. However the 
 following two functionalities would increase burden placed.
     - Patient Paging Ability
         - The caretakers believed that this ability would increase the burden. They believed that this 
