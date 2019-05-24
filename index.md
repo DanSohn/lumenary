@@ -1,209 +1,135 @@
 # Team 10 CPSC 481 Spring 2019
   
-## Identify your project idea. Succinctly describe the nature of the project, how you expect your system to be used, by whom, and the context under which you expect it to be used.
-
-**_Assisted living_**
-
+## Project Idea
+​
+​
+**_Assisted living,_**
 **_Assistive technology_**
-
-Our project idea is to create a mobile application for patients with Alzheimer’s disease and also their family members (informal caregivers). Maintaining their standard of living prior to contracting the disease is the core of what we want to accomplish. The app will be mainly focusing on mild Alzheimer's; patients who still suffer from memory loss, but are not completely dependent on caregivers. Alzheimer’s disease is the most common type of dementia. In the early stage, noticeable symptoms may be minimal but the more it progresses the more damage the disease causes to the brain. While there are currently no treatments to stop Alzheimer's diseases’ progression, there have been different medications and treatments used to diminish its symptoms.
-
+​
+Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.
+​
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
   - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.
   - **Reminders:** Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.
-  - **Specialized Checklist:** A to-do list where certain items can be checked off by people with permissions (a caretaker can be the only       one to check off if the patient has taken all the pills for the day).
-  - **GPS Tracking:** Peace of Mind. The app provides real-time tracking for the safety of the patient, shared with all the linked devices       of family members/caretakers.
-  - **Memory Prompting:** As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the
-    patient to remember certain words. We expect functionality to be implemented based on this idea.
+  - **Memory Prompting:** As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the patient to remember certain words and names. Our application will use pictures to help the patient select certain words, or allow the patient to verbally describe the object they are trying to name, and provide a list of object names they may be referring to.
   - **Brain Game:** Based on saved memories, it would prompt the patient to describe certain details about a memory.
-  - **Permission-Based Viewing:** Not all family members need all the information. Check out the options for the devices that need certain
-    info, or that don’t need all in the information.
+  - **Permission-Based Viewing:** Not all family members need all the information. Check out the options for the devices that need certain info, or that don’t need all in the information.
       - **Revoking and granting access:** A primary admin will be able to assign/reassign appropriate rolls according to their liking.
-
-## Identify stakeholders and users. Figure out who is impacted (in one way or another) by this system -- these are stakeholders. Note that stakeholders and users overlap, but are not always the same. For example, the primary users of self-checkout at a grocery store are customers, but cashiers still make use of the system, and the owner of a grocery store (who is likely paying for its installation) is someone who cares about the system, too. Create a list of these stakeholders, and describe them (particularly the users) in terms of: how much training/experience they might have, their background knowledge, etc.
+  - **Information Portal:** The application provides critical information to the patient and the family.
+    Including details such as the closest hospitals, information on dealing with Alzheimer’s Disease, and how to ensure mental health and stability as caregivers, the portal will provide links for any questions any stakeholders may have.
+​
+## Stakeholders and Users
   - Developers/Designers
-      - the developers and designers will need lots of training to be able to implement this app to the best of their abilities, using
-      research and IDEO methods. Their background knowledge may consist of personal background, but also secondary research from
-      creating the best product possible.
+      - the developers and designers will need lots of training to be able to implement this app to the best
+        of their abilities, using research and IDEO methods. Their background knowledge may consist of personal background,
+        but also secondary research from creating the best product possible. They will be the main people involved in the 
+        User-Centered Design, other than the users themselves.
   - Sponsors of project
+      - Sponsors will have no training, and very little background knowledge. They will not be part of the design process
   - Healthcare (Doctors/Nurses)
-  - Patient
+      - Healthcare Agents have extensive knowledge, but will not have any training of the application as it is not 
+	    designed for them. As such, they will not play a part in the User-Centered Design.
+  - Patient suffering from Alzheimer's Disease
+      - The patient will have little to moderate background knowledge on Alzheimer’s Disease, as the condition becomes a big part of their life. They will have extensive training/experience with the application, as we hope the platform will provide daily support in their lives. The patient relates to the design of the system as the main character of the User-Centered Design, being the problem in the investigation phase, and being centered for solutions in the ideate phase.
   - Family/Caretakers
-  - Informal
-      - Focus here
-      - So family members and the patient themselves
-  - Formal
-  - Social workers
-  - Occupational Therapist
-  - Professional
-  - Doctors
-  - Nurses
-
-
+      - Informal
+          - Informal Caregivers, consisting of family members, will range from having little to extensive knowledge on Alzheimer’s Disease, as they help support the patient. They will receive extensive training/experience with the application, as they are the main targeted users. Other than the patients themselves, the design of the application will be targeted towards the informal caregivers such that it provides maximum usability. As such, for all phases of the User-Centered Design, they will be considered. 
+      - Formal
+          - Formal Caregivers, consisting of social workers and occupational therapists, will have extensive knowledge on dealing with patients suffering from Alzheimer’s Disease, but they will not receive much training for the application, as they are not a targeted group of users. As such, they will not really be considered for the design process.
+      - Professional (Doctor/Nurses)
+          - See above at Healthcare.
+      
+​
+​
+​
+## User Research Methods
+​
+The two main research methods we used were Interviews and Secondary Research. 
+We allotted a small amount of time to research Competitive Product Survey in order to find current 
+markets for products, goals that these applications try to solve, and what functionalities they provide.
+​
+### Interviews
+​
+    Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and 
+also to view perceptions of users on the patients and the burden placed on them. We were able to interview four 
+individuals composing of formal and informal caregivers Using the Zarit Burden Interview, we were able to place the 
+burden of taking care of a patient with Alzheimer’s Disease upon the caretakers in the moderate range. The main problem
+we are trying to face now would be: **How to lower user’s burden through our functionalities?**
+	Using these four interviewees, we were able to paint a picture on which functionalities were useful, which seemed 
+useless, and provide understanding through the user’s view on how the application may increase or decrease the amount 
+of burden placed on the user. Another point that we asked our interviewees was, due to the nature of the condition, 
+whether or not the patient themselves should have the functionalities. Most of the functionalities should also be 
+possessed by the patient.
+    Discussing burden, the majority of the functionalities would lower the burden. However the 
+following two functionalities would increase burden placed.
+    - Patient Paging Ability
+        - The caretakers believed that this ability would increase the burden. They believed that this 
+          ability would be misused constantly. Therefore, the users suggested the ability to turn on/off the feature.
+    - Panic Button
+        - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
+​
+### Use of Interview Method
+​
+The interview method went very smoothly, and we were able to gather a lot of data through using both structured 
+and opened questions. The only difficulty with the interview method was when we used open structure of asking questions 
+about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting 
+from the functionality - if not, they gave vague answers that did not provide much useful information. Hence, next 
+time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
+​
+### Secondary Research
+​
+Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease, 
+and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on 
+the subject and design issues. The secondary research conducted has been instrumental in forming a more educated 
+perspective on the landscape of problems caregivers and patients afflicted with Alzheimer's disease face. 
+    The first listed source compares the benefits of various ICT interventions on informal caregivers of people living 
+with dementia (of which Alzheimer's disease is the most common form). This study is directly relevant to our application, 
+and also highlights a number of phone services currently available to people in these situations. 
+    The second source provided some statistics about the demographic of caregivers and people suffering from dementia. 
+    The third source gave good information about assisted living settings. This is mainly pertaining to formal caregivers 
+in these assisted living homes, but also brings to light some potential issues we could address with our application.
+​
+### Use of Secondary Research
+​
+Overall, the secondary research method has been effective in providing general information about the people our app 
+could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary 
+research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely 
+continue to use sources like these when evaluating more specific functions later on.
+​
 ### Competitive Product Survey
-**<a href="https://www.indiegogo.com/projects/timeless-a-mobile-app-for-alzheimer-s-patients#/">Timeless</a>**
-
-Goal: Retain quality of life, stimulating memory and socializing can help slow down cognitive decline
-Common features we would like to have, including:
-Brain games
-Updates - photos of people (like journal)
-Today - for daily activity (like reminders/todo list)
-Includes management by caretaker and family members
-Phone numbers, photo gallery, identify (facial recognition) - key feature
-Future goals: gamification, music and multiple languages
-
-**<a href="https://itunes.apple.com/ca/app/memory-trainer/id459700390?mt=8">Memory Trainer</a>**
-
-Not specifically for Alzheimer’s patients, but perhaps something to keep in mind
-Game focused on developing memory (looks like finding pairs of images)
-
-**<a href="https://www.healthline.com/health/alzheimers-disease/best-products#1">Products for Alzheimer's patients</a>**
-
-- Clocks
-- Big Calendars
-- Mind games (match and word puzzles)
-- Timed pillboxes
-- Picture phones
-- Locators
-
-## Secondary research
-### Overview
-The secondary research conducted has been instrumental in forming a more educated perspective on the landscape of problems caregivers and patients afflicted with Alzheimer's disease face. The first listed source compares the benefits of various ICT interventions on informal caregivers of people living with dementia (of which Alzheimer's disease is the most common form). This study is directly relevant to our app, and also highlights a number of phone services currently available to people in these situations. The second source provided some statistics about the demographic of caregivers and people suffering from dementia. The third source gave some good information about assisted living settings. This is mainly pertaining to formal caregivers in these assisted living homes, but also brings to light some potential issues we could address with our app.
-
-Overall, the secondary research method has been effective in providing general information about the people our app could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely continue to use sources like these when evaluating more specific functions later on.
-
-1. - Up to 75% of people living with dementia in the United States are cared for by family members in their homes
-   - Dementia caregivers have higher levels of depression, anxiety and other mood disorders compared with caregivers of older adults          without dementia
-   - Research has shown that technology-based interventions can improve these outcomes on all sides of the equation
-   - Study focused on the effects of ICT interventions on the health of informal dementia caregivers
-   - **Interventions studied (in the home)**
-      - Care consultant
-      - Helped to establish individualized plan of care which can include tasks such as utilizing Alzheimer’s Association services
-      - Automated voice response system
-      - Phone services like support groups, strategies to reduce disruptive behavior, and a distraction call for the care recipient
-      - Videotapes with strategies to improve recipient’s dressing and eating skills, or skill training for the caregiver (coaching)
-      - Exercise intervention
-      - Physical fitness videos and phone sessions from behavior-change counsellors
-      - ComputerLink system
-      - Educational information, decision support, and communication features for communication between caregivers
-          - Communication boards were also monitored by a nurse who would respond to messages.
-      - Internet based program with eight components consisting of embedded educational video clip
-     - Of the 12 interventions, ten targeted increasing caregiving support, one aimed to improve caregiver health, and one sought to
-       improve caregiver's skills for resource utilization
-     - 3 tech groups: telephone-, video-, and computer-based interventions
-     - Half of the interventions studied were phone-based
-     - Limited number of ICT interventions leading to a statistically significant effect on informal caregiver outcomes
-     - However tech from all 3 groups described above appear to be successfully targeting caregiver support for a range of affective
-       caregiver outcomes, including burden, depression, and anxiety
-     - Evidence strongest for various forms of telephone-based interventions based on the quality of the studies and the effects of the
-       interventions
-     - Telephone can be used effectively stand-alone or in tandem with other ICTs
-2. - Majority of carers were sons or daughters or spouses (majority of which were women)
-   - Caregivers expressed a high level of satisfaction with both primary care and neurology clinics
-3. - Table 61.1. The Philosophy of Assisted Living
-      1. Offer personalized, cost-effective, quality supportive services in a safe residential environment.
-      2. Maximize the independence of each resident.
-      3. Treat each resident with dignity and respect.
-      4. Promote the individuality of each resident.
-      5. Protect each resident's right to privacy.
-      6. Provide each resident the choice of services and lifestyles and the right to negotiate risk associated with that choice.
-      7. Involve residents and include family and friends in service planning and implementation when requested by a competent resident
-      or when appropriate for incompetent residents.
-      8. Provide opportunity for residents to develop and maintain relationships in the broader community.
-      9. Minimize the need to move.
-      10. Involve residents in policy decisions affecting resident life.
-      11. Make full consumer disclosure before move in.
-      12. Ensure that potential residents are fully informed regarding the setting's approach and capacity to serve individuals with
-      cognitive and physical impairments.
-      13. Ensure that specialized programs (e.g., for residents with dementia) have a written statement of philosophy and mission
-      reflecting how the setting can meet the specialized needs of the resident.
-      14. Ensure that residents can receive health services provided as they would be within their own home.
-      15. Ensure that assisted living, while health care–related, focuses primarily on a supportive environment designed to maintain an
-      individual's ability to function independently for as long as possible.
-      16. Ensure that assisted living, with its residential emphasis, avoids the visual and procedural characteristics of an
-      “institutional” setting.
-      17. Ensure that assisted living, with its focus on the customer, lends itself to personalized services emphasizing the particular
-      needs of the individual and his/her choice of lifestyle. the watchwords should be “creativity,” “variety,” and “innovation.”
-    - _Source: Assisted Living Quality Coalition (1998)._
-
-   - The term assisted living is commonly used by facilities that do not subscribe to this philosophy of providing a homelike
-     environment, independence, autonomy, and privacy
-   - As a result, there is no one accepted definition of assisted living
-   - Services required or allowed under regulation in assisted living settings:
-      - Medical services
-      - Social services
-      - Support services
-      - Barber/salon
-      - 3rd party services
-      - Home health care
-      - Skilled nursing
-      - Therapy
-      - Dietary consultation
-      - Wound care
-      - Medication management
-      - Hospice
-    - Issues with assisted living
-      - Disparity in access and quality
-      - Autonomy, negotiated risk, and aging in place
-      - Resident choice vs safety
-      - Recognizing and Treating Psychosocial Needs
-
-### Sources
-1. Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,
-<a href="http://www.sciencedirect.com/science/article/pii/S2352873718300787">The effects of information and communication technologies on informal caregivers of persons living with dementia: A systematic review</a>,
-Alzheimer's & Dementia: Translational Research & Clinical Interventions,
-Volume 5,
-2019,
-Pages 1-12,
-ISSN 2352-8737,
-<a href="https://doi.org/10.1016/j.trci.2018.11.003">External link.</a>
-
-
-2. J. Olazarán Rodríguez, M. Sastre Paz, S. Martín Sánchez,
-<a href="http://www.sciencedirect.com/science/article/pii/S2173580812000624">Health care in dementia: Satisfaction and needs of the caregiver</a>,
-Neurología (English Edition),
-Volume 27, Issue 4,
-2012,
-Pages 189-196,
-ISSN 2173-5808,
-<a href="https://doi.org/10.1016/j.nrleng.2011.07.001">External link.</a>
-
-
-3. Zimmerman, Sheryl C., Jean Correll L. Munn, and Terry L. Koenig. <a href="https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s2.0-84920176424">"Assisted Living Settings." Handbook of Social Work in Health and Aging</a>. Oxford UP, 2010. Handbook of Social Work in Health and Aging. Web.
-
+​
+Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s 
+competitions. We used the information gathered to establish certain functionalities and how they compare to our 
+own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain 
+problem that patients face such as:
+    - Big fonts and calendars to deal with the inability to read small fonts
+    - Location services to deal with wandering
+    - Timed Pillboxes to ensure medicine is taken at a timely manner
+We have taken this information and the goals of the applications in order to ensure that our application 
+will have all the necessary functionalities to maintain the patients standard of living. While the information 
+provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
+application will be strongly focused towards the informal caregivers.
+​
+### Use of Competitive Product Survey
+​
+Due to the nature of our product, since we have a differing main audience, the information gathered 
+using this method was not very helpful. As this was a by-product of secondary research however, not 
+much time was allotted to this method, hence if we did the project again, it would be acceptable to contain 
+this method as long as it was not the primary or secondary research method.
+​
 ## Task Descriptions
-1. Setting up a Reminder
-The primary caretaker can go into the application tap on set reminder. The app will ask her for the title of the reminder, a description, a picture if applicable, the time the reminder should go off, , the days of the week it will go off on, if the reminder is recurring or one time only and if its recurring how often should the reminder go off (weekly, monthly, yearly). Once all information has been filled in then the caretaker will can press save to go through with the set up or cancel if they decide it is not needed.
-
-2. Adding a Journal entry
-The user opens the journal page and a calendar opens up with the current date highlighted. The user cant then press on the day they want to add an entry to and it will take them to another screen with all the entries associated to that day. the user then presses on the add entry button and is taken to another screen where they enter a title, picture and/or files (if needed), location (not needed), time of day(not needed), date(if wants to change the day they clicked on),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the save button where the entry will show up on the day they saved the entry on.
-
-3. Editing Journal Entry
-The user presses the day and entry they want to edit, they press the edit icon where it takes them to a page similar to journal entry page with all of the fields filled out. User can then choose whatever they want to add, subtract or change. After user has finished with the changes they submit save, a prompt comes up making sure they want to confirm the changes if the user agrees the entry will now show the correct information.
-
-4. Editing Reminder
-User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder details of it show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.
-
-5. Playing Brain Game
-The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.
-
-6. Accesing Information Portal
-The user goes to the information portal icon where he or she can read about certain information related to the Alzheimer decease. In this section he/she will be able to find basic information regarding the nature of the decease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Aditionally to the side or botton of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.
-
-7. Accesing External sources of information from Information Portal
-User will access from the main window of the information portal will se a small tab that allows him/her to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
-
-
-
-## Treatments
-There are drugs available that may help with some types of dementia and stop symptoms progressing for a while. This is one reason why it’s important to go to the GP as soon as you suspect there’s a problem.
-
-Other things that can help with symptoms of dementia include:
-
-- cognitive stimulation, which might involve doing word puzzles or discussing current affairs
-- life story work, sharing memories and experiences with a carer or nurse to create a ‘life storybook’
-- keeping as active as possible – physically, mentally and socially – which can boost memory and self-esteem, and help avoid depression
-
-<a href="https://www.alzheimers.org.uk/about-dementia/five-things-you-should-know-about-dementia">Five Things you should know about dementia</a>
-
-**_<a href="https://alzheimer.ca/en/Home/ContactUs">Contact</a> for people that want information about Alzheimer's disease who may be affected by dementia or want to provide information_**
+​
+    - Setting up a Reminder 
+	The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.
+    - Adding a Journal entry
+	User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.   
+	- Editing Journal Entry 
+    The user presses the day and entry they want to edit, they press the edit icon where it takes them to a page similar to journal entry page with all of the fields filled out. User can then choose whatever they want to add, subtract or change. After user has finished with the changes they submit save, a prompt comes up making sure they want to confirm the changes if the user agrees the entry will now show the correct information.
+    - Editing Reminder 
+	User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder, Reminder details show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.   
+	- Playing Brain Game 
+    The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.
+    - Accessing Information Portal 
+    The user goes to the information portal icon where they can read about certain information related to the Alzheimer’s Disease. In this section the user will be able to find basic information regarding the nature of the disease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Additionally to the side or bottom of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.
+    - Accessing External sources of information from Information Portal 
+    User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information
