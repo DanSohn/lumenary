@@ -1,14 +1,10 @@
 # Team 10 CPSC 481 Spring 2019
   
-## Project Idea
-
-**_Assisted living,_**
-
+## Project Idea<br/>
+**_Assisted living,_**<br/>
 **_Assistive technology_**
-​
-
-Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.
-​
+<br/>
+Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.<br/>
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
   - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.
   - **Reminders:** Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.
@@ -39,18 +35,12 @@ We expect this app to be used by informal caregivers alongside patients daily an
           - Formal Caregivers, consisting of social workers and occupational therapists, will have extensive knowledge on dealing with patients suffering from Alzheimer’s Disease, but they will not receive much training for the application, as they are not a targeted group of users. As such, they will not really be considered for the design process.
       - Professional (Doctor/Nurses)
           - See above at Healthcare.
-      
-​
-​
-​
-## User Research Methods
-​
+<br/><br/>
+## User Research Methods<br/>
 The two main research methods we used were Interviews and Secondary Research. 
 We allotted a small amount of time to research Competitive Product Survey in order to find current 
-markets for products, goals that these applications try to solve, and what functionalities they provide.
-​
-### Interviews
-​
+markets for products, goals that these applications try to solve, and what functionalities they provide.<br/>
+### Interviews<br/>
     Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and 
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four 
 individuals composing of formal and informal caregivers Using the Zarit Burden Interview, we were able to place the 
@@ -68,17 +58,17 @@ following two functionalities would increase burden placed.
           ability would be misused constantly. Therefore, the users suggested the ability to turn on/off the feature.
     - Panic Button
         - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
-​
+
 ### Use of Interview Method
-​
+
 The interview method went very smoothly, and we were able to gather a lot of data through using both structured 
 and opened questions. The only difficulty with the interview method was when we used open structure of asking questions 
 about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting 
 from the functionality - if not, they gave vague answers that did not provide much useful information. Hence, next 
 time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
-​
+
 ### Secondary Research
-​
+
 Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease, 
 and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on 
 the subject and design issues. The secondary research conducted has been instrumental in forming a more educated 
@@ -89,16 +79,15 @@ and also highlights a number of phone services currently available to people in 
     The second source provided some statistics about the demographic of caregivers and people suffering from dementia. 
     The third source gave good information about assisted living settings. This is mainly pertaining to formal caregivers 
 in these assisted living homes, but also brings to light some potential issues we could address with our application.
-​
+
 ### Use of Secondary Research
-​
-Overall, the secondary research method has been effective in providing general information about the people our app 
+<br/>Overall, the secondary research method has been effective in providing general information about the people our app 
 could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary 
 research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely 
 continue to use sources like these when evaluating more specific functions later on.
-​
+
 ### Competitive Product Survey
-​
+
 Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s 
 competitions. We used the information gathered to establish certain functionalities and how they compare to our 
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain 
@@ -111,14 +100,14 @@ We have taken this information and the goals of the applications in order to ens
 will have all the necessary functionalities to maintain the patients standard of living. While the information 
 provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
 application will be strongly focused towards the informal caregivers.
-​
+
 ### Use of Competitive Product Survey
 
 Due to the nature of our product, since we have a differing main audience, the information gathered 
 using this method was not very helpful. As this was a by-product of secondary research however, not 
 much time was allotted to this method, hence if we did the project again, it would be acceptable to contain 
 this method as long as it was not the primary or secondary research method.
-​
+
 ## Task Descriptions
 1. Setting up a Reminder<br/>
 The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.<br/>
@@ -133,7 +122,7 @@ The user goes to the brain game portal and can choose from a number of cards eac
 6. Accessing Information Portal<br/>
 The user goes to the information portal icon where they can read about certain information related to the Alzheimer’s Disease. In this section the user will be able to find basic information regarding the nature of the disease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Additionally to the side or bottom of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.<br/>
 7. Accessing External sources of information from Information Portal<br/>
-User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information
+User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
 
 ### Sources
 1. Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,
