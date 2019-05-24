@@ -41,6 +41,11 @@ The two main research methods we used were Interviews and Secondary Research.
 We allotted a small amount of time to research Competitive Product Survey in order to find current
 markets for products, goals that these applications try to solve, and what functionalities they provide.<br/>
 ### Interviews <br/>
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-2%20Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
+
 Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four
 individuals composing of formal and informal caregivers. Using the Zarit Burden Interview, we were able to place the
@@ -59,7 +64,8 @@ following two functionalities would increase burden placed.
     - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
 
 ### Use of Interview Method
-
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Information/Interview%20Questions.pdf">Download Interview Questions</a><br/>
+<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/>
 The interview method went very smoothly, and we were able to gather a lot of data through using both structured
 and opened questions. The only difficulty with the interview method was when we used open structure of asking questions
 about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting
