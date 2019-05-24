@@ -91,7 +91,7 @@ own, and to also compare the goals of different apps to ours. The applications t
 problem that patients face such as:
 - Big fonts and calendars to deal with the inability to read small fonts.
 - Location services to deal with wandering.
-- Timed Pillboxes to ensure medicine is taken at a timely manner.<br/><br/>
+- Timed Pillboxes to ensure medicine is taken at a timely manner.<br/>
 We have taken this information and the goals of the applications in order to ensure that our application 
 will have all the necessary functionalities to maintain the patients standard of living. While the information 
 provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
