@@ -79,29 +79,25 @@ and also highlights a number of phone services currently available to people in 
     The third source gave good information about assisted living settings. This is mainly pertaining to formal caregivers 
 in these assisted living homes, but also brings to light some potential issues we could address with our application.
 
-### Use of Secondary Research
-<br/>Overall, the secondary research method has been effective in providing general information about the people our app 
+### Use of Secondary Research<br/>
+Overall, the secondary research method has been effective in providing general information about the people our app 
 could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary 
 research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely 
 continue to use sources like these when evaluating more specific functions later on.
 
-### Competitive Product Survey
-
+### Competitive Product Survey<br/>
 Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s 
 competitions. We used the information gathered to establish certain functionalities and how they compare to our 
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain 
 problem that patients face such as:
 - Big fonts and calendars to deal with the inability to read small fonts
 - Location services to deal with wandering
-- Timed Pillboxes to ensure medicine is taken at a timely manner
-
+- Timed Pillboxes to ensure medicine is taken at a timely manner<br/>
 We have taken this information and the goals of the applications in order to ensure that our application 
 will have all the necessary functionalities to maintain the patients standard of living. While the information 
 provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
-application will be strongly focused towards the informal caregivers.
-
-### Use of Competitive Product Survey
-
+application will be strongly focused towards the informal caregivers.<br/>
+### Use of Competitive Product Survey<br/>
 Due to the nature of our product, since we have a differing main audience, the information gathered 
 using this method was not very helpful. As this was a by-product of secondary research however, not 
 much time was allotted to this method, hence if we did the project again, it would be acceptable to contain 
