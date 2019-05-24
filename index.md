@@ -113,7 +113,7 @@ provided from this research method mainly shed light on applications to patients
 application will be strongly focused towards the informal caregivers.
 ​
 ### Use of Competitive Product Survey
-​
+
 Due to the nature of our product, since we have a differing main audience, the information gathered 
 using this method was not very helpful. As this was a by-product of secondary research however, not 
 much time was allotted to this method, hence if we did the project again, it would be acceptable to contain 
