@@ -22,10 +22,9 @@ We expect this app to be used by informal caregivers alongside patients daily an
         but also secondary research from creating the best product possible. They will be the main people involved in the 
         User-Centered Design, other than the users themselves.
   - Sponsors of project
-      - Sponsors will have no training, and very little background knowledge. They will not be part of the design process
+      - Sponsors will have no training, and very little background knowledge. They will not be part of the design process.
   - Healthcare (Doctors/Nurses)
-      - Healthcare Agents have extensive knowledge, but will not have any training of the application as it is not 
-	    designed for them. As such, they will not play a part in the User-Centered Design.
+      - Healthcare Agents have extensive knowledge, but will not have any training of the application as it is not designed for them. As such, they will not play a part in the User-Centered Design.
   - Patient suffering from Alzheimer's Disease
       - The patient will have little to moderate background knowledge on Alzheimer’s Disease, as the condition becomes a big part of their life. They will have extensive training/experience with the application, as we hope the platform will provide daily support in their lives. The patient relates to the design of the system as the main character of the User-Centered Design, being the problem in the investigation phase, and being centered for solutions in the ideate phase.
   - Family/Caretakers
@@ -90,10 +89,10 @@ Competitive Product Survey was used in order to collect, compare and conduct eva
 competitions. We used the information gathered to establish certain functionalities and how they compare to our 
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain 
 problem that patients face such as:
-- Big fonts and calendars to deal with the inability to read small fonts
-- Location services to deal with wandering
-- Timed Pillboxes to ensure medicine is taken at a timely manner
-<br/>We have taken this information and the goals of the applications in order to ensure that our application 
+- Big fonts and calendars to deal with the inability to read small fonts.
+- Location services to deal with wandering.
+- Timed Pillboxes to ensure medicine is taken at a timely manner.<br/>
+We have taken this information and the goals of the applications in order to ensure that our application 
 will have all the necessary functionalities to maintain the patients standard of living. While the information 
 provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
 application will be strongly focused towards the informal caregivers.<br/>
