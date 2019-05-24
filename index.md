@@ -34,7 +34,8 @@ We expect this app to be used by informal caregivers alongside patients daily an
           - Formal Caregivers, consisting of social workers and occupational therapists, will have extensive knowledge on dealing with patients suffering from Alzheimer’s Disease, but they will not receive much training for the application, as they are not a targeted group of users. As such, they will not really be considered for the design process.
       - Professional (Doctor/Nurses)
           - See above at Healthcare.
-<br/><br/>
+
+
 ## User Research Methods <br/>
 The two main research methods we used were Interviews and Secondary Research. 
 We allotted a small amount of time to research Competitive Product Survey in order to find current 
@@ -95,7 +96,9 @@ problem that patients face such as:
 We have taken this information and the goals of the applications in order to ensure that our application 
 will have all the necessary functionalities to maintain the patients standard of living. While the information 
 provided from this research method mainly shed light on applications to patients with Alzheimer’s Disease, our 
-application will be strongly focused towards the informal caregivers.<br/>
+application will be strongly focused towards the informal caregivers.
+
+
 ### Use of Competitive Product Survey<br/>
 Due to the nature of our product, since we have a differing main audience, the information gathered 
 using this method was not very helpful. As this was a by-product of secondary research however, not 
