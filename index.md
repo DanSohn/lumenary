@@ -3,7 +3,7 @@
 ## Project Idea
 ​
 ​
-**_Assisted living,_**
+**_Assisted living,_** 
 **_Assistive technology_**
 ​
 
@@ -119,7 +119,6 @@ much time was allotted to this method, hence if we did the project again, it wou
 this method as long as it was not the primary or secondary research method.
 ​
 ## Task Descriptions
-​
 1. Setting up a Reminder 
 The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.
 2. Adding a Journal entry
