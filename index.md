@@ -36,12 +36,12 @@ We expect this app to be used by informal caregivers alongside patients daily an
       - Professional (Doctor/Nurses)
           - See above at Healthcare.
 <br/><br/>
-## User Research Methods<br/>
+## User Research Methods <br/>
 The two main research methods we used were Interviews and Secondary Research. 
 We allotted a small amount of time to research Competitive Product Survey in order to find current 
 markets for products, goals that these applications try to solve, and what functionalities they provide.<br/>
-### Interviews<br/>
-    Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and 
+### Interviews <br/>
+Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and 
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four 
 individuals composing of formal and informal caregivers Using the Zarit Burden Interview, we were able to place the 
 burden of taking care of a patient with Alzheimer’s Disease upon the caretakers in the moderate range. The main problem
