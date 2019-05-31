@@ -132,8 +132,8 @@ this method as long as it was not the primary or secondary research method.
 <section id ="TaskDesc">
 <h3>Task Descriptions</h3>
   <ol type="1">
-    <li>Setting up a Reminder
-<ul>The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.</ul></li>
+    <li>Setting up a Reminder</li>
+The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.</li>
 2. Adding a Journal entry
 User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.
 3. Editing Journal Entry<br/>
