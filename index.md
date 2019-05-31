@@ -8,7 +8,7 @@
       <a href="#URM">User Research Methods</a><br/>
       <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
-      <a href="#sources">Sources</a>
+      <a href="#sources">Sources</a><br/>
   </nav>
 </section>
 
