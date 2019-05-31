@@ -134,17 +134,17 @@ this method as long as it was not the primary or secondary research method.
 <section id ="TaskDesc">
 <h3>Task Descriptions</h3>
   <ol type="1">
-    <li>Setting up a Reminder</li>
+    <li><b>Setting up a Reminder</b></li>
     The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.
-    <li>Adding a Journal entry</li>
+    <li><b>Adding a Journal entry</b></li>
     User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.
-    <li>Editing Reminder</li>
+    <li><b>Editing Reminder</b></li>
     User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder, Reminder details show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.
-    <li>Playing Brain Game</li>
+    <li><b>Playing Brain Game</b></li>
     The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.
-    <li>Accessing Information Portal</li>
+    <li><b>Accessing Information Portal</b></li>
     The user goes to the information portal icon where they can read about certain information related to the Alzheimer’s Disease. In this section the user will be able to find basic information regarding the nature of the disease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Additionally to the side or bottom of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.
-    <li>Accessing External sources of information from Information Portal</li>
+    <li><b>Accessing External sources of information from Information Portal</b></li>
     User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
     </ol>
 </section>
