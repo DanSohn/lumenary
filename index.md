@@ -1,8 +1,6 @@
-# Team 10 CPSC 481 Spring 2019
-
-## lumenary.<br/>
-#### Assisted living,
-#### Assistive technology
+# lumenary.
+## Assisted living, Assistive technology
+#### Team 10 CPSC 481 Spring 2019
 
 ## Index
 <section>
