@@ -8,14 +8,14 @@
 <section>
   <nav id="nav">
     <ul>
-      <a href=#Project Idea">Project Idea</a><br/>
+      <a href=#ProjectIdea">Project Idea</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
     </ul>
   </nav>
 </section>
 
 ### Project Idea
-<section id="Project Idea">
+<section id="ProjectIdea">
   <ul>
 Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.<br/>
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
