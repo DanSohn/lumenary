@@ -8,8 +8,9 @@
 <section>
   <nav id="nav">
     <ul>
-      <h4><a href="#ProjectIdea">Project Idea</a><br/>
-      <a href="#Lo-Fi">Low Fidelity Prototype</a></h4>
+      <a href="#ProjectIdea">Project Idea</a><br/>
+      <a href="#URM">User Research Methods</a><br/>
+      <a href="#Lo-Fi">Low Fidelity Prototype</a>
     </ul>
   </nav>
 </section>
@@ -49,11 +50,12 @@ We expect this app to be used by informal caregivers alongside patients daily an
       - Professional (Doctor/Nurses)
           - See above at Healthcare.
 
-
-### User Research Methods <br/>
+<section id="URM">
+<h3> User Research Methods</h3>
 The two main research methods we used were Interviews and Secondary Research.
 We allotted a small amount of time to research Competitive Product Survey in order to find current
 markets for products, goals that these applications try to solve, and what functionalities they provide.<br/>
+</section>
 #### Interviews <br/>
 <a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
 <a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
