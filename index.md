@@ -145,10 +145,11 @@ this method as long as it was not the primary or secondary research method.
     The user goes to the information portal icon where they can read about certain information related to the Alzheimer’s Disease. In this section the user will be able to find basic information regarding the nature of the disease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Additionally to the side or bottom of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.
     <li>Accessing External sources of information from Information Portal</li>
     User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
+    </ol>
 </section>
 
-### Low-Fidelity Prototype (P2)
 <section id="Lo-Fi">
+  <h3>Low-Fidelity Prototype (P2)<h3>
   <ul>
     <li><a href="https://lafffta.github.io/lumenary/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a></li>
     <li><a href="https://lafffta.github.io/lumenary/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
@@ -156,8 +157,10 @@ this method as long as it was not the primary or secondary research method.
   </ul>
 </section>
 
-#### Sources
-1. Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,
+<section id="sources">
+  <h3>Sources</h3>
+  <ol>
+<li>Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,</li>
 <a href="http://www.sciencedirect.com/science/article/pii/S2352873718300787">The effects of information and communication technologies on informal caregivers of persons living with dementia: A systematic review</a>,
 Alzheimer's & Dementia: Translational Research & Clinical Interventions,
 Volume 5,
@@ -167,7 +170,7 @@ ISSN 2352-8737,
 <a href="https://doi.org/10.1016/j.trci.2018.11.003">External link.</a>
 
 
-2. J. Olazarán Rodríguez, M. Sastre Paz, S. Martín Sánchez,
+<li>J. Olazarán Rodríguez, M. Sastre Paz, S. Martín Sánchez,</li>
 <a href="http://www.sciencedirect.com/science/article/pii/S2173580812000624">Health care in dementia: Satisfaction and needs of the caregiver</a>,
 Neurología (English Edition),
 Volume 27, Issue 4,
@@ -177,4 +180,6 @@ ISSN 2173-5808,
 <a href="https://doi.org/10.1016/j.nrleng.2011.07.001">External link.</a>
 
 
-3. Zimmerman, Sheryl C., Jean Correll L. Munn, and Terry L. Koenig. <a href="https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s2.0-84920176424">"Assisted Living Settings." Handbook of Social Work in Health and Aging</a>. Oxford UP, 2010. Handbook of Social Work in Health and Aging. Web.
+<li>Zimmerman, Sheryl C., Jean Correll L. Munn, and Terry L. Koenig.</li> <a href="https://ucalgary-primo.hosted.exlibrisgroup.com/permalink/f/1p0s7n7/TN_scopus2-s2.0-84920176424">"Assisted Living Settings." Handbook of Social Work in Health and Aging</a>. Oxford UP, 2010. Handbook of Social Work in Health and Aging. Web.
+</ol>
+<section>
