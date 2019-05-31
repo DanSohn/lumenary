@@ -58,10 +58,10 @@ markets for products, goals that these applications try to solve, and what funct
 </section>
 
 #### Interviews <br/>
-<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
-<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
-<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
-<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-2%20Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-2%20Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
 
 Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four
@@ -81,8 +81,8 @@ following two functionalities would increase burden placed.
     - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
 
 #### Use of Interview Method
-<a href="/Research/Interviews/Information/Interview%20Questions.pdf">Download Interview Questions</a><br/>
-<a href="/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Interviews/Information/Interview%20Questions.pdf">Download Interview Questions</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/>
 The interview method went very smoothly, and we were able to gather a lot of data through using both structured
 and opened questions. The only difficulty with the interview method was when we used open structure of asking questions
 about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting
@@ -90,7 +90,7 @@ from the functionality - if not, they gave vague answers that did not provide mu
 time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
 
 #### Secondary Research
-<a href="/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/>
 Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease,
 and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on
 the subject and design issues. The secondary research conducted has been instrumental in forming a more educated
@@ -109,7 +109,7 @@ research. Thus, we also did interviews with informal caregivers to get direct fe
 continue to use sources like these when evaluating more specific functions later on.
 
 #### Competitive Product Survey<br/>
-<a href="/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/>
 Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s
 competitions. We used the information gathered to establish certain functionalities and how they compare to our
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain
@@ -133,26 +133,24 @@ this method as long as it was not the primary or secondary research method.
 <h3>Task Descriptions</h3>
   <ol type="1">
     <li>Setting up a Reminder</li>
-The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.
-2. Adding a Journal entry
-User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.
-3. Editing Journal Entry<br/>
-The user presses the day and entry they want to edit, they press the edit icon where it takes them to a page similar to journal entry page with all of the fields filled out. User can then choose whatever they want to add, subtract or change. After user has finished with the changes they submit save, a prompt comes up making sure they want to confirm the changes if the user agrees the entry will now show the correct information.<br/>
-4. Editing Reminder<br/>
-User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder, Reminder details show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information. <br/>
-5. Playing Brain Game<br/>
-The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.<br/>
-6. Accessing Information Portal<br/>
-The user goes to the information portal icon where they can read about certain information related to the Alzheimer’s Disease. In this section the user will be able to find basic information regarding the nature of the disease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Additionally to the side or bottom of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.<br/>
-7. Accessing External sources of information from Information Portal<br/>
-User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
+    The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.
+    <li>Adding a Journal entry</li>
+    User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.
+    <li>Editing Reminder</li>
+    User goes into the reminders screen and can choose from all the saved reminders. When the user presses the desired reminder, Reminder details show up, like the description. From there the user can click the edit button and go into the set-up reminder screen, with all the fields filled. The user can then change all their information, then press save to save the changes. A prompt will pop up to confirm any changes that the user did was intentional once the user confirms it was then the reminder will now display the correct information.
+    <li>Playing Brain Game</li>
+    The user goes to the brain game portal and can choose from a number of cards each one representing a game of some sort. The user chooses the game they want and can start playing right away. There will be an icon on the top left to go back to the game portal to choose another card or function.
+    <li>Accessing Information Portal</li>
+    The user goes to the information portal icon where they can read about certain information related to the Alzheimer’s Disease. In this section the user will be able to find basic information regarding the nature of the disease, possible treatments and medicines known to have been used to treat its symptoms and a tab containing FAQ about Alzheimer. Additionally to the side or bottom of the window, the user can navigate to some external links that contain further information and support regarding the nature and different treatments of the decease.
+    <li>Accessing External sources of information from Information Portal</li>
+    User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
 </section>
 
 ### Low-Fidelity Prototype (P2)
 <section id="Lo-Fi">
   <ul>
-    <li><a href="/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a></li>
-    <li><a href="/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
+    <li><a href="https://lafffta.github.io/lumenary/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a></li>
+    <li><a href="https://lafffta.github.io/lumenary/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
     <li><a href="https://prezi.com/view/GAW1MQu50XoANVUfUUbS/">View the low fidelity prototype presentation</a></li>
   </ul>
 </section>
