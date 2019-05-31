@@ -14,9 +14,10 @@
 
 <section id="ProjectIdea">
   <h3><br/>Project Idea</h3>
-  <ul>
+  
 Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.<br/>
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
+<ul>
     <li><b>Journal:</b> Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.</li>
     <li><b>Reminders:</b> Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.</li>
     <li><b>Memory Prompting:</b> As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the patient to remember certain words and names. Our application will use pictures to help the patient select certain words, or allow the patient to verbally describe the object they are trying to name, and provide a list of object names they may be referring to.</li>
