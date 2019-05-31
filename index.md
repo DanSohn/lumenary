@@ -12,6 +12,7 @@
       <a href="#URM">User Research Methods</a><br/>
       <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a>
+      <a href="sources">Sources</a>
     </ul>
   </nav>
 </section>
