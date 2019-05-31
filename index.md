@@ -8,7 +8,7 @@
 <section>
   <nav id="nav">
     <ul>
-      <a href=#ProjectIdea">Project Idea</a><br/>
+      <a href="#ProjectIdea">Project Idea</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
     </ul>
   </nav>
