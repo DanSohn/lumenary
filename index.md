@@ -1,9 +1,9 @@
 # Team 10 CPSC 481 Spring 2019
 
 ## lumenary.<br/>
-**_Assisted living,_**<br/>
-**_Assistive technology_**<br/>
-<br/>
+#### Assisted living,
+#### Assistive technology
+
 ## Index
 <section>
   <nav id="nav">
@@ -12,7 +12,7 @@
       <a href="#URM">User Research Methods</a><br/>
       <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
-      <a href="sources">Sources</a>
+      <a href="#sources">Sources</a>
     </ul>
   </nav>
 </section>
