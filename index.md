@@ -10,6 +10,7 @@
     <ul>
       <a href="#ProjectIdea">Project Idea</a><br/>
       <a href="#URM">User Research Methods</a><br/>
+      <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a>
     </ul>
   </nav>
