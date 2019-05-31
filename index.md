@@ -1,14 +1,16 @@
 # Team 10 CPSC 481 Spring 2019
 
-## Project Idea<br/>
+## lumenary.<br/>
 **_Assisted living,_**<br/>
 **_Assistive technology_**<br/>
 <br/>
+### Index
 <nav id="nav">
   <ul>
     <li><a href="#Lo-Fi">Low Fidelity Prototype</a></li>
   </ul>
 </nav>
+### Project Idea
 Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.<br/>
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
   - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.
@@ -20,7 +22,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
   - **Information Portal:** The application provides critical information to the patient and the family.
     Including details such as the closest hospitals, information on dealing with Alzheimer’s Disease, and how to ensure mental health and stability as caregivers, the portal will provide links for any questions any stakeholders may have.
 
-## Stakeholders and Users
+### Stakeholders and Users
   - Developers/Designers
       - the developers and designers will need lots of training to be able to implement this app to the best
         of their abilities, using research and IDEO methods. Their background knowledge may consist of personal background,
@@ -41,11 +43,11 @@ We expect this app to be used by informal caregivers alongside patients daily an
           - See above at Healthcare.
 
 
-## User Research Methods <br/>
+### User Research Methods <br/>
 The two main research methods we used were Interviews and Secondary Research.
 We allotted a small amount of time to research Competitive Product Survey in order to find current
 markets for products, goals that these applications try to solve, and what functionalities they provide.<br/>
-### Interviews <br/>
+#### Interviews <br/>
 <a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
 <a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
 <a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
@@ -68,7 +70,7 @@ following two functionalities would increase burden placed.
 - Panic Button
     - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
 
-### Use of Interview Method
+#### Use of Interview Method
 <a href="/Research/Interviews/Information/Interview%20Questions.pdf">Download Interview Questions</a><br/>
 <a href="/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/>
 The interview method went very smoothly, and we were able to gather a lot of data through using both structured
@@ -77,7 +79,7 @@ about the functionalities, we still had to guide the interviewee such that they 
 from the functionality - if not, they gave vague answers that did not provide much useful information. Hence, next
 time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
 
-### Secondary Research
+#### Secondary Research
 <a href="/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/>
 Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease,
 and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on
@@ -90,13 +92,13 @@ and also highlights a number of phone services currently available to people in 
     The third source gave good information about assisted living settings. This is mainly pertaining to formal caregivers
 in these assisted living homes, but also brings to light some potential issues we could address with our application.
 
-### Use of Secondary Research<br/>
+#### Use of Secondary Research<br/>
 Overall, the secondary research method has been effective in providing general information about the people our app
 could be used by. However, it is still hard to confirm our proposed functionality would be useful with purely secondary
 research. Thus, we also did interviews with informal caregivers to get direct feedback on our ideas. We will likely
 continue to use sources like these when evaluating more specific functions later on.
 
-### Competitive Product Survey<br/>
+#### Competitive Product Survey<br/>
 <a href="/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/>
 Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s
 competitions. We used the information gathered to establish certain functionalities and how they compare to our
@@ -111,13 +113,13 @@ provided from this research method mainly shed light on applications to patients
 application will be strongly focused towards the informal caregivers.
 
 
-### Use of Competitive Product Survey<br/>
+#### Use of Competitive Product Survey<br/>
 Due to the nature of our product, since we have a differing main audience, the information gathered
 using this method was not very helpful. As this was a by-product of secondary research however, not
 much time was allotted to this method, hence if we did the project again, it would be acceptable to contain
 this method as long as it was not the primary or secondary research method.
 
-## Task Descriptions
+### Task Descriptions
 1. Setting up a Reminder<br/>
 The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.<br/>
 2. Adding a Journal entry<br/>
@@ -135,12 +137,14 @@ User will access from the main window of the information portal a small tab that
 
 ## Low-Fidelity Prototype (P2)
 <section id="Lo-Fi">
-   <a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a>
-   <a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a>
-   <a href="https://prezi.com/view/GAW1MQu50XoANVUfUUbS/">View the low fidelity prototype presentation</a>
+  <ul>
+    <li><a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a></li>
+    <li><a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
+    <li><a href="https://prezi.com/view/GAW1MQu50XoANVUfUUbS/">View the low fidelity prototype presentation</a></li>
+  </ul>
 </section>
 
-### Sources
+#### Sources
 1. Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,
 <a href="http://www.sciencedirect.com/science/article/pii/S2352873718300787">The effects of information and communication technologies on informal caregivers of persons living with dementia: A systematic review</a>,
 Alzheimer's & Dementia: Translational Research & Clinical Interventions,
