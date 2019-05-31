@@ -22,7 +22,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
     <li><b>Journal:</b> Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.</li>
     <li><b>Reminders:</b> Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.</li>
     <li><b>Memory Prompting:</b> As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the patient to remember certain words and names. Our application will use pictures to help the patient select certain words, or allow the patient to verbally describe the object they are trying to name, and provide a list of object names they may be referring to.</li>
-    <li><b>Brain Game:</b> Based on saved memories, it would prompt the patient to describe certain details about a memory.
+    <li><b>Brain Game:</b> Based on saved memories, it would prompt the patient to describe certain details about a memory.</li>
     <li><b>Permission-Based Viewing:</b> Not all family members need all the information. Check out the options for the devices that need certain info, or that don’t need all in the information.
       <ul><li><b>Revoking and granting access:</b> A primary admin will be able to assign/reassign appropriate rolls according to their liking.</li></ul></li>
     <li><b>Information Portal:</b> The application provides critical information to the patient and the family. Including details such as the closest hospitals, information on dealing with Alzheimer’s Disease, and how to ensure mental health and stability as caregivers, the portal will provide links for any questions any stakeholders may have.</li>
