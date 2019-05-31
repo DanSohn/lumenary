@@ -128,6 +128,12 @@ The user goes to the information portal icon where they can read about certain i
 7. Accessing External sources of information from Information Portal<br/>
 User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
 
+## Low-Fidelity Prototype
+<a href"/Lo-Fi Prototype/Team10_Low-Fi_Prototype">### Download the low fidelity prototype(PDF)</a>
+<a href"">### Download the low fidelity prototype(Balsamiq)</a>
+<a href"">### View the low fidelity prototype presentation</a>
+
+
 ### Sources
 1. Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,
 <a href="http://www.sciencedirect.com/science/article/pii/S2352873718300787">The effects of information and communication technologies on informal caregivers of persons living with dementia: A systematic review</a>,
