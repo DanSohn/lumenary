@@ -14,8 +14,8 @@
   </nav>
 </section>
 
-### Project Idea
 <section id="ProjectIdea">
+  <h3>Project Idea</h3>
   <ul>
 Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.<br/>
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
@@ -28,7 +28,7 @@ We expect this app to be used by informal caregivers alongside patients daily an
   - <li><b>Information Portal:</b> The application provides critical information to the patient and the family.
     Including details such as the closest hospitals, information on dealing with Alzheimer’s Disease, and how to ensure mental health and stability as caregivers, the portal will provide links for any questions any stakeholders may have.</li>
     </ul>
-<section>
+</section>
   
 ### Stakeholders and Users
   - Developers/Designers
