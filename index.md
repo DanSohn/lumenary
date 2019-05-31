@@ -149,7 +149,7 @@ this method as long as it was not the primary or secondary research method.
 </section>
 
 <section id="Lo-Fi">
-  <h3>Low-Fidelity Prototype (P2)<h3>
+  <h3>Low-Fidelity Prototype (P2)</h3>
   <ul>
     <li><a href="https://lafffta.github.io/lumenary/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a></li>
     <li><a href="https://lafffta.github.io/lumenary/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
