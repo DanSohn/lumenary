@@ -58,10 +58,10 @@ markets for products, goals that these applications try to solve, and what funct
 </section>
 
 #### Interviews <br/>
-<a href="/Research/Interviews/Informal Caregiver Interview/Informal Caregiver-1 Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
-<a href="/Research/Interviews/Informal Caregiver Interview/Informal%20Caregiver-2 Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
-<a href="/Research/Interviews/Formal Caregiver Interview/Formal%20Caregiver-1 Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
-<a href="/Research/Interviews/Formal Caregiver Interview/Formal%20Caregiver-2 Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
+<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
+<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
+<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
+<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-2%20Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
 
 Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four
@@ -151,8 +151,8 @@ User will access from the main window of the information portal a small tab that
 ### Low-Fidelity Prototype (P2)
 <section id="Lo-Fi">
   <ul>
-    <li><a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a></li>
-    <li><a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
+    <li><a href="/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a></li>
+    <li><a href="/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
     <li><a href="https://prezi.com/view/GAW1MQu50XoANVUfUUbS/">View the low fidelity prototype presentation</a></li>
   </ul>
 </section>
