@@ -129,9 +129,9 @@ The user goes to the information portal icon where they can read about certain i
 User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
 
 ## Low-Fidelity Prototype
-<a href"/Lo-Fi Prototype/Team10_Low-Fi_Prototype">### Download the low fidelity prototype(PDF)</a>
-<a href"">### Download the low fidelity prototype(Balsamiq)</a>
-<a href"">### View the low fidelity prototype presentation</a>
+<a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype">### Download the low fidelity prototype(PDF)</a>
+<a href="">### Download the low fidelity prototype(Balsamiq)</a>
+<a href="">### View the low fidelity prototype presentation</a>
 
 
 ### Sources
