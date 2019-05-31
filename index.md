@@ -8,8 +8,8 @@
 <section>
   <nav id="nav">
     <ul>
-      <li><a href=#Project Idea">Project Idea</a></li>
-      <li><a href="#Lo-Fi">Low Fidelity Prototype</a></li>
+      <a href=#Project Idea">Project Idea</a><br/>
+      <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
     </ul>
   </nav>
 </section>
