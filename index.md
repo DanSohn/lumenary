@@ -4,6 +4,11 @@
 **_Assisted living,_**<br/>
 **_Assistive technology_**<br/>
 <br/>
+<nav id="nav">
+  <ul>
+    <li><a href="index.md#Lo-Fi">Low Fidelity Prototype</a></li>
+  </ul>
+</nav>
 Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.<br/>
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
   - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.
@@ -41,10 +46,10 @@ The two main research methods we used were Interviews and Secondary Research.
 We allotted a small amount of time to research Competitive Product Survey in order to find current
 markets for products, goals that these applications try to solve, and what functionalities they provide.<br/>
 ### Interviews <br/>
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-2%20Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
+<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
+<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
+<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
+<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-2%20Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
 
 Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four
@@ -64,8 +69,8 @@ following two functionalities would increase burden placed.
     - Just like the paging ability, the caregivers believed the button may be overused, causing stress levels of caregivers to increase.
 
 ### Use of Interview Method
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Information/Interview%20Questions.pdf">Download Interview Questions</a><br/>
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/>
+<a href="/Research/Interviews/Information/Interview%20Questions.pdf">Download Interview Questions</a><br/>
+<a href="/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/>
 The interview method went very smoothly, and we were able to gather a lot of data through using both structured
 and opened questions. The only difficulty with the interview method was when we used open structure of asking questions
 about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting
@@ -73,7 +78,7 @@ from the functionality - if not, they gave vague answers that did not provide mu
 time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
 
 ### Secondary Research
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/>
+<a href="/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/>
 Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease,
 and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on
 the subject and design issues. The secondary research conducted has been instrumental in forming a more educated
@@ -92,7 +97,7 @@ research. Thus, we also did interviews with informal caregivers to get direct fe
 continue to use sources like these when evaluating more specific functions later on.
 
 ### Competitive Product Survey<br/>
-<a href="https://github.com/lafffta/lumenary/blob/master/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/>
+<a href="/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/>
 Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s
 competitions. We used the information gathered to establish certain functionalities and how they compare to our
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain
@@ -128,11 +133,12 @@ The user goes to the information portal icon where they can read about certain i
 7. Accessing External sources of information from Information Portal<br/>
 User will access from the main window of the information portal a small tab that allows the user to navigate to a different window containing a list of compiled websites that contain and offer information and support. Each website name will be accompanied with a link to the website the user wants to navigate to. By clicking on this link the user will be send to the main website containing the desired information.
 
-## Low-Fidelity Prototype
-<a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype">### Download the low fidelity prototype(PDF)</a>
-<a href="">### Download the low fidelity prototype(Balsamiq)</a>
-<a href="">### View the low fidelity prototype presentation</a>
-
+## Low-Fidelity Prototype (P2)
+<section id="Lo-Fi">
+   <a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.pdf">Download the low fidelity prototype(PDF)</a>
+   <a href="/Lo-Fi Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a>
+   <a href="https://prezi.com/view/GAW1MQu50XoANVUfUUbS/">View the low fidelity prototype presentation</a>
+</section>
 
 ### Sources
 1. Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,
