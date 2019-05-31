@@ -58,10 +58,10 @@ markets for products, goals that these applications try to solve, and what funct
 </section>
 
 #### Interviews <br/>
-<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-1%20Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
-<a href="/Research/Interviews/Informal%20Caregiver%20Interview/Informal%20Caregiver-2%20Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
-<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-1%20Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
-<a href="/Research/Interviews/Formal%20Caregiver%20Interview/Formal%20Caregiver-2%20Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
+<a href="/Research/Interviews/Informal Caregiver Interview/Informal Caregiver-1 Interview.pdf">Download Informal Caregiver-1 Interview</a><br/>
+<a href="/Research/Interviews/Informal Caregiver Interview/Informal%20Caregiver-2 Interview.pdf">Download Informal Caregiver-2 Interview</a><br/>
+<a href="/Research/Interviews/Formal Caregiver Interview/Formal%20Caregiver-1 Interview.pdf">Download Formal Caregiver-1 Interview</a><br/>
+<a href="/Research/Interviews/Formal Caregiver Interview/Formal%20Caregiver-2 Interview.pdf">Download Formal Caregiver-2 Interview</a><br/>
 
 Interview method was chosen in order to be able to ascertain characteristics of informal and formal caregivers, and
 also to view perceptions of users on the patients and the burden placed on them. We were able to interview four
@@ -133,7 +133,7 @@ this method as long as it was not the primary or secondary research method.
 <h3>Task Descriptions</h3>
   <ol type="1">
     <li>Setting up a Reminder</li>
-The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.</li>
+The Primary Caretaker logs into application, goes into Reminders, and sets reminder. Application asks for name of reminder, description, time, date, and if reminder is recurring or one time only. Once all information has been filled in, user presses save, or cancel if they decide reminder is not needed.
 2. Adding a Journal entry
 User opens the journal page and a calendar opens up with the current date highlighted. The user can then press on the day they want to add an entry to and the application will take them to another screen with all the entries associated to that day. the user then presses on “Add Entry” and is taken to another screen where they enter in a title, picture and/or files (optional), location (optional), time of day(optional), date(if differing from date selected),and a description of the the memory they want to save. Once the user has finished entering all the information they can proceed to press the Save button where the entry will show up on the day they saved the entry on.
 3. Editing Journal Entry<br/>
