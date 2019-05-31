@@ -4,25 +4,32 @@
 **_Assisted living,_**<br/>
 **_Assistive technology_**<br/>
 <br/>
-### Index
-<nav id="nav">
-  <ul>
-    <li><a href="#Lo-Fi">Low Fidelity Prototype</a></li>
-  </ul>
-</nav>
+## Index
+<section>
+  <nav id="nav">
+    <ul>
+      <li><a href=#Project Idea">Project Idea</a></li>
+      <li><a href="#Lo-Fi">Low Fidelity Prototype</a></li>
+    </ul>
+  </nav>
+</section>
 
 ### Project Idea
+<section id="Project Idea">
+  <ul>
 Our project idea is to create an application for the family of patients with Alzheimer's. This application will be aimed towards both the families and the patients, for the sake of increasing the standard of living for the patient, and minimizing burden upon the family. Our application is focusing on mild Alzheimer's Disease (early stage), who suffers from common difficulties including issues with remembering names, words, and increasing trouble with planning. We expect this application to be used in the daily lives of the family to provide the following functionalities for the patient and caregivers.<br/>
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
-  - **Journal:** Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.
-  - **Reminders:** Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.
-  - **Memory Prompting:** As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the patient to remember certain words and names. Our application will use pictures to help the patient select certain words, or allow the patient to verbally describe the object they are trying to name, and provide a list of object names they may be referring to.
-  - **Brain Game:** Based on saved memories, it would prompt the patient to describe certain details about a memory.
-  - **Permission-Based Viewing:** Not all family members need all the information. Check out the options for the devices that need certain info, or that don’t need all in the information.
-      - **Revoking and granting access:** A primary admin will be able to assign/reassign appropriate rolls according to their liking.
-  - **Information Portal:** The application provides critical information to the patient and the family.
-    Including details such as the closest hospitals, information on dealing with Alzheimer’s Disease, and how to ensure mental health and stability as caregivers, the portal will provide links for any questions any stakeholders may have.
-    
+  - <li><b>Journal:</b> Saving Memories. The journal, updated by all members, will provide loving memories of the family in the past and present.</li>
+  - <li><b>Reminders:</b> Notifications that are posted by the family members/caretakers to remind the patient about their current affairs.</li>
+  - <li><b>Memory Prompting:</b> As Alzheimer's progress, language, reasoning, and processing are all affected. This affects the ability of the patient to remember certain words and names. Our application will use pictures to help the patient select certain words, or allow the patient to verbally describe the object they are trying to name, and provide a list of object names they may be referring to.
+  - <li><b>Brain Game:</b> Based on saved memories, it would prompt the patient to describe certain details about a memory.
+  - <li><b>Permission-Based Viewing:</b> Not all family members need all the information. Check out the options for the devices that need certain info, or that don’t need all in the information.
+      - <ul><li><b>Revoking and granting access:</b> A primary admin will be able to assign/reassign appropriate rolls according to their liking.</li></ul></li>
+  - <li><b>Information Portal:</b> The application provides critical information to the patient and the family.
+    Including details such as the closest hospitals, information on dealing with Alzheimer’s Disease, and how to ensure mental health and stability as caregivers, the portal will provide links for any questions any stakeholders may have.</li>
+    </ul>
+<section>
+  
 ### Stakeholders and Users
   - Developers/Designers
       - the developers and designers will need lots of training to be able to implement this app to the best
