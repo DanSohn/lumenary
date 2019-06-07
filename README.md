@@ -8,3 +8,4 @@ Our project idea is to create a mobile application for patients with Alzheimerâ€
 We expect this app to be used by informal caregivers alongside patients daily and we also expect the app to have the following functionalities.
 
 **Contributors: Aiden Bjelke, Steven Canon-Almagro, Steve Khanna, Juan de Reiset, Daniel Sohn**
+![Output sample](lumenaryGif.gif)
