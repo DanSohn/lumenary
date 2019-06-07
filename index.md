@@ -157,7 +157,7 @@ this method as long as it was not the primary or secondary research method.
 
 <section id= "Hi-Fi">
   <h3>High Fidelity Prototype (P3)</h3>
-  <video width="320" height="240" controls>
+  <video width="768" height="1024" controls>
     <source src="/Hi-Fi%20Prototype/lumenary.mp4" type="video/mp4">
   </video>
 </section>
