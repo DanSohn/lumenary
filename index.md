@@ -158,8 +158,8 @@ this method as long as it was not the primary or secondary research method.
 <section id= "Hi-Fi">
   <h3>High Fidelity Prototype (P3)</h3>
   <ul>
-    <li><a href="https://github.com/lafffta/lumenary/blob/master/Hi-Fi%20Prototype/lumenary.mp4?raw=true">Download the high fidelity prototype video file</a></li>
-    <li><a href="">View the high fidelity prototype</a></li>
+    <li><a href="https://vimeo.com/340877051">View the high fidelity prototype video</a></li>
+    <li><a href="https://xd.adobe.com/view/e8b973f4-7ce6-440d-6170-c137a894a223-9e88/?fullscreen">View the high fidelity prototype (Adobe XD)</a></li>
   </ul>
 </section>
 
