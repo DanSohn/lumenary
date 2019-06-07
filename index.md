@@ -8,6 +8,7 @@
       <a href="#URM">User Research Methods</a><br/>
       <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
+      <a href="#Hi-Fi">High Fidelity</a><br/>
       <a href="#sources">Sources</a><br/>
   </nav>
 </section>
@@ -152,6 +153,13 @@ this method as long as it was not the primary or secondary research method.
     <li><a href="https://lafffta.github.io/lumenary/Lo-Fi%20Prototype/Team10_Low-Fi_Prototype.bmpr">Download the low fidelity prototype(Balsamiq)</a></li>
     <li><a href="https://prezi.com/view/GAW1MQu50XoANVUfUUbS/">View the low fidelity prototype presentation</a></li>
   </ul>
+</section>
+
+<section id= "Hi-Fi">
+  <h3>High Fidelity Prototype (P3)</h3>
+  <video width="320" height="240" controls>
+    <source src="lumenary.mp4" type="video/mp4">
+  </video>
 </section>
 
 <section id="sources">
