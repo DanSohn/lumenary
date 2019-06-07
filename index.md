@@ -161,6 +161,9 @@ this method as long as it was not the primary or secondary research method.
     <li><a href="https://vimeo.com/340877051">View the high fidelity prototype video</a></li>
     <li><a href="https://xd.adobe.com/view/e8b973f4-7ce6-440d-6170-c137a894a223-9e88/?fullscreen">View the high fidelity prototype (Adobe XD)</a></li>
   </ul>
+  <video width="500" height="667" controls>
+    <source src="lumenaryIntro.mp4" type="video/mp4">
+  </video>
 </section>
 
 <section id="sources">
