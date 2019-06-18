@@ -9,7 +9,8 @@
       <a href="#TaskDesc">Task Descriptions</a><br/>
       <a href="#Lo-Fi">Low Fidelity Prototype</a><br/>
       <a href="#Hi-Fi">High Fidelity</a><br/>
-      <a href="#sources">Sources</a><br/>
+      <a href="#Presentation">Presenatation and Final Report</a><br/>
+      <a href="#sources">Bibliography</a><br/>
   </nav>
 </section>
 
@@ -168,8 +169,17 @@ this method as long as it was not the primary or secondary research method.
   
 </section>
 
+<section id="Presentation">
+  <h3>Presentation and Final Report (P4)</h3>
+  <ul>
+    <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.pdf">View our final presentation (PDF)</a></li>
+    <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.-Final_Report.pdf">View our final report (PDF)</a></li>
+  </ul>
+</section>
+    
+
 <section id="sources">
-  <h3>Sources</h3>
+  <h3>Bibliography</h3>
   <ol>
 <li>Robert J. Lucero, Elizabeth A. Fehlberg, Aditi G.M. Patel, Ragnhildur I. Bjarnardottir, Renessa Williams, Karis Lee, Margaret Ansell, Suzanne Bakken, Jose A. Luchsinger, Mary Mittelman,</li>
 <a href="http://www.sciencedirect.com/science/article/pii/S2352873718300787">The effects of information and communication technologies on informal caregivers of persons living with dementia: A systematic review</a>,
