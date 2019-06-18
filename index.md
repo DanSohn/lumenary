@@ -172,8 +172,8 @@ this method as long as it was not the primary or secondary research method.
 <section id="Presentation">
   <h3>Presentation and Final Report (P4)</h3>
   <ul>
-    <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.pdf">View our final presentation (PDF)</a></li>
-    <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.-Final_Report.pdf">View our final report (PDF)</a></li>
+    <li><a href="https://github.com/lafffta/lumenary/blob/master/Presentation/lumenary.pdf">View our final presentation (PDF)</a></li>
+    <li><a href="https://github.com/lafffta/lumenary/blob/master/Presentation/lumenary.-Final_Report.pdf">View our final report (PDF)</a></li>
   </ul>
 </section>
     
