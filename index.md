@@ -82,7 +82,7 @@ following two functionalities would increase burden placed.
 
 #### Use of Interview Method
 <a href="https://lafffta.github.io/lumenary/Research/Interviews/Information/Interview%20Questions.pdf">Download Interview Questions</a><br/>
-<a href="https://lafffta.github.io/lumenary/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Interviews/Information/zarit_burden_interview.pdf">Download Zarit Burden Interview</a><br/><br/>
 The interview method went very smoothly, and we were able to gather a lot of data through using both structured
 and opened questions. The only difficulty with the interview method was when we used open structure of asking questions
 about the functionalities, we still had to guide the interviewee such that they understood exactly what we were expecting
@@ -90,7 +90,7 @@ from the functionality - if not, they gave vague answers that did not provide mu
 time, there may be more benefit to include a more detailed description for the caretaker before we ask open questions.
 
 #### Secondary Research
-<a href="https://lafffta.github.io/lumenary/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Secondary%20Research/Secondary%20research.pdf">Download research document</a><br/><br/>
 Secondary Research was chosen due to the groups inexperience with patients suffering from Alzheimer’s Disease,
 and lack of knowledge of the disease itself. Hence, we required Secondary Research to develop a point of view on
 the subject and design issues. The secondary research conducted has been instrumental in forming a more educated
@@ -109,7 +109,7 @@ research. Thus, we also did interviews with informal caregivers to get direct fe
 continue to use sources like these when evaluating more specific functions later on.
 
 #### Competitive Product Survey<br/>
-<a href="https://lafffta.github.io/lumenary/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/>
+<a href="https://lafffta.github.io/lumenary/Research/Secondary%20Research/Competitive%20Product%20Survey.pdf">Download Competitive Product Survey</a><br/><br/>
 Competitive Product Survey was used in order to collect, compare and conduct evaluations of the product’s
 competitions. We used the information gathered to establish certain functionalities and how they compare to our
 own, and to also compare the goals of different apps to ours. The applications tried to directly solve a certain
@@ -172,8 +172,8 @@ this method as long as it was not the primary or secondary research method.
 <section id="Presentation">
   <h3>Presentation and Final Report (P4)</h3>
   <ul>
-    <li><a href="https://github.com/lafffta/lumenary/blob/master/Presentation/lumenary.pdf">View our final presentation (PDF)</a></li>
-    <li><a href="https://github.com/lafffta/lumenary/blob/master/Presentation/lumenary.-Final_Report.pdf">View our final report (PDF)</a></li>
+    <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.pdf">View our final presentation (PDF)</a></li>
+    <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.-Final_Report.pdf">View our final report (PDF)</a></li>
   </ul>
 </section>
     
