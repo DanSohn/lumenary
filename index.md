@@ -174,7 +174,7 @@ this method as long as it was not the primary or secondary research method.
   <ul>
     <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.pdf">View our final presentation(PDF)</a></li>
     <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.-Final_Report.pdf">View our final report (Without User Tests)(PDF)</a></li>
-    <li><a href="https://lafffta.github.io/lumenary/Presentation/lumenary.-Final_ReportWithUserTests.pdf">View our final report (With User Tests)(PDF)</a></li>
+    <li><a href="https://github.com/lafffta/lumenary/blob/master/Presentation/lumenary.-Final_ReportWithUserTests.pdf">View our final report (With User Tests)(PDF)</a></li>
     <li><a href="https://lafffta.github.io/lumenary/Presentation/UserTests.pdf">View our User Tests Document(PDF)</a></li>
   </ul>
 </section>
